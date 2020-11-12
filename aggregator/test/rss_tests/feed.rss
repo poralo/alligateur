@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Korben</title>
+	<atom:link href="https://korben.info/feed" rel="self" type="application/rss+xml" />
+	<link>https://korben.info</link>
+	<description>Upgrade your mind</description>
+	<lastBuildDate>Tue, 10 Nov 2020 09:33:52 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://korben.info/app/uploads/2019/07/cropped-android-chrome-512x512-32x32.png</url>
+	<title>Korben</title>
+	<link>https://korben.info</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Unikname &#8211; Un identifiant universel, privé et confidentiel pour vous connecter à tous les sites</title>
+		<link>https://korben.info/unikname.html</link>
+					<comments>https://korben.info/unikname.html#comments</comments>
+		
+		<dc:creator><![CDATA[Korben]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2020 09:00:00 +0000</pubDate>
+				<category><![CDATA[Service web]]></category>
+		<category><![CDATA[unikname]]></category>
+		<guid isPermaLink="false">https://korben.info/?p=119867</guid>
+
+					<description><![CDATA[Article rédigé en partenariat avec Unikname Vous connaissez sûrement ces petits boutons présents sur tous les sites, qui permettent de s&#8217;authentifier avec un compte de réseau social type Twitter ou Facebook. C&#8217;est super pratique, mais vos données partent immédiatement chez nos amis GAFAM et sont ensuite exploitées à des fins &#8230; <a href="https://korben.info/unikname.html">Suite</a>]]></description>
+										<content:encoded><![CDATA[<p><img width="2000" height="500" src="https://korben.info/app/uploads/2020/10/header-fond-article.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://korben.info/app/uploads/2020/10/header-fond-article.png 2000w, https://korben.info/app/uploads/2020/10/header-fond-article-300x75.png 300w, https://korben.info/app/uploads/2020/10/header-fond-article-1024x256.png 1024w, https://korben.info/app/uploads/2020/10/header-fond-article-768x192.png 768w, https://korben.info/app/uploads/2020/10/header-fond-article-1536x384.png 1536w" sizes="(max-width: 2000px) 100vw, 2000px" data-attachment-id="119497" data-permalink="https://korben.info/articles/unikname__trashed/header-fond-article" data-orig-file="https://korben.info/app/uploads/2020/10/header-fond-article.png" data-orig-size="2000,500" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="header-fond-article" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/10/header-fond-article-300x75.png" data-large-file="https://korben.info/app/uploads/2020/10/header-fond-article-1024x256.png"></p>
+<p class="has-text-align-center"><em>Article rédigé en partenariat avec Unikname</em></p>
+
+
+
+<p>Vous connaissez sûrement ces petits boutons présents sur tous les sites, qui permettent de s&rsquo;authentifier avec un compte de réseau social type Twitter ou Facebook. C&rsquo;est super pratique, mais vos données partent immédiatement chez nos amis GAFAM et sont ensuite exploitées à des fins commerciales. Pas très bon pour le karma tout ça.</p>
+
+
+
+<p>Toutefois une alternative simple, décentralisée et sécurisée existe. Il s&rsquo;agit d&rsquo;<a href="https://www.unikname.com/"><strong>Unikname</strong></a>, une alternative made in Europe aux systèmes de connexion sociale proposés par les GAFAM. Je vais tâcher de vous présenter tout ça.</p>
+
+
+
+<p>Un utilisateur qui le souhaite peut se créer en quelques secondes un identifiant Unikname qu&rsquo;il peut ensuite utiliser pour se connecter sur les sites implémentant la solution Unikname. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="119496" data-permalink="https://korben.info/articles/unikname__trashed/ecran-accueil-download-app-unikname" data-orig-file="https://korben.info/app/uploads/2020/10/écran-accueil-download-app-unikname.png" data-orig-size="900,500" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="écran-accueil-download-app-unikname" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/10/écran-accueil-download-app-unikname-300x167.png" data-large-file="https://korben.info/app/uploads/2020/10/écran-accueil-download-app-unikname.png" loading="lazy" width="900" height="500" src="https://korben.info/app/uploads/2020/10/écran-accueil-download-app-unikname.png" alt="" class="wp-image-119496" srcset="https://korben.info/app/uploads/2020/10/écran-accueil-download-app-unikname.png 900w, https://korben.info/app/uploads/2020/10/écran-accueil-download-app-unikname-300x167.png 300w, https://korben.info/app/uploads/2020/10/écran-accueil-download-app-unikname-768x427.png 768w" sizes="(max-width: 900px) 100vw, 900px" /></figure></div>
+
+
+
+<p>Cet identifiant, sur lequel l&rsquo;utilisateur a entièrement la main, est immédiatement utilisable est inscrit dans le marbre à l&rsquo;aide d&rsquo;une blockchain basée sur Ark.io et baptisée uns.network. Ensuite, à l&rsquo;aide d&rsquo;une application web sur votre smartphone (<a href="https://kover.link/idLI67" data-type="URL" data-id="https://kover.link/idLI67">my.unikname.app</a>), le lien entre le système d&rsquo;authentification d&rsquo;un site et votre identité est établi, vous permettant de valider que vous êtes bien vous.</p>
+
+
+
+<p>Rassurez-vous, votre identité est préservée à l&rsquo;aide d&rsquo;un clée de récupération que vous devez sauvegarder en lieu sûr, exactement comme n&rsquo;importe quelle clé de wallet cryptomonnaie.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img data-attachment-id="119498" data-permalink="https://korben.info/articles/unikname__trashed/backup-cle" data-orig-file="https://korben.info/app/uploads/2020/10/backup-clé.png" data-orig-size="600,470" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="backup-clé" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/10/backup-clé-300x235.png" data-large-file="https://korben.info/app/uploads/2020/10/backup-clé.png" loading="lazy" src="https://korben.info/app/uploads/2020/10/backup-clé.png" alt="" class="wp-image-119498" width="471" height="383"/></figure></div>
+
+
+
+<p>A partir de là, le site qui vous authentifie attendra que vous acceptiez la connexion depuis l&rsquo;application smartphone (PWA &#8211; Progressive Web App) pour vous laisser accéder à votre compte, comme on le ferait dans le cadre d&rsquo;une double authentification classique. </p>
+
+
+
+<p>C&rsquo;est un process hyper bien pensé et hyper fluide à mettre en place. Il n&rsquo;y a pas de mot de passe à retenir, pas d&rsquo;adresse email à fournir et encore moins à dérober en cas d&rsquo;attaque.</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="119406" data-permalink="https://korben.info/articles/unikname__trashed/what-is-unikname_2x-6fece5fa" data-orig-file="https://korben.info/app/uploads/2020/10/what-is-unikname_@2x.6fece5fa.png" data-orig-size="1876,1932" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="what-is-unikname_@2x.6fece5fa" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/10/what-is-unikname_@2x.6fece5fa-291x300.png" data-large-file="https://korben.info/app/uploads/2020/10/what-is-unikname_@2x.6fece5fa-994x1024.png" loading="lazy" width="994" height="1024" src="https://korben.info/app/uploads/2020/10/what-is-unikname_@2x.6fece5fa-994x1024.png" alt="" class="wp-image-119406" srcset="https://korben.info/app/uploads/2020/10/what-is-unikname_@2x.6fece5fa-994x1024.png 994w, https://korben.info/app/uploads/2020/10/what-is-unikname_@2x.6fece5fa-291x300.png 291w, https://korben.info/app/uploads/2020/10/what-is-unikname_@2x.6fece5fa-768x791.png 768w, https://korben.info/app/uploads/2020/10/what-is-unikname_@2x.6fece5fa-1491x1536.png 1491w, https://korben.info/app/uploads/2020/10/what-is-unikname_@2x.6fece5fa.png 1876w" sizes="(max-width: 994px) 100vw, 994px" /></figure>
+
+
+
+<p>Là où c&rsquo;est intéressant, c&rsquo;est sur le côté open source et décentralisé de l&rsquo;histoire. La technologie de blockchain derrière uns.network et son ouverture en fait un système sécurisé et pérenne, ce qui n&rsquo;est pas le cas avec d&rsquo;autres systèmes d&rsquo;authentification dont tout est stocké dans des bases de données propriétaires.</p>
+
+
+
+<p>Au delà de l&rsquo;utiliser pour se connecter à un site web, on peut imaginer utiliser l&rsquo;ID unikname dans un cadre de certification d&rsquo;identité pour tout type d&rsquo;opération.</p>
+
+
+
+<p>Voici en quelques étapes comment se déroule une connexion.</p>
+
+
+
+<p>Étape 1, le site sur lequel je veux me connecter me demande mon identifiant.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img data-attachment-id="119494" data-permalink="https://korben.info/articles/unikname__trashed/video-connexion" data-orig-file="https://korben.info/app/uploads/2020/10/Vidéo-Connexion.gif" data-orig-size="618,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Vidéo-Connexion" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/10/Vidéo-Connexion-300x211.gif" data-large-file="https://korben.info/app/uploads/2020/10/Vidéo-Connexion.gif" loading="lazy" src="https://korben.info/app/uploads/2020/10/Vidéo-Connexion.gif" alt="" class="wp-image-119494" width="389" height="288"/></figure></div>
+
+
+
+<p>Étape 2, il m&rsquo;invite à aller sur l&rsquo;application smartphone</p>
+
+
+
+<p>Étape 3, je vois la demande de connexion sur mon application et je n&rsquo;ai plus qu&rsquo;à l&rsquo;approuver.</p>
+
+
+
+<p>Étape 4, et voilà, je suis connecté !</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img data-attachment-id="119495" data-permalink="https://korben.info/articles/unikname__trashed/steps-login" data-orig-file="https://korben.info/app/uploads/2020/10/steps-login.png" data-orig-size="900,500" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="steps-login" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/10/steps-login-300x167.png" data-large-file="https://korben.info/app/uploads/2020/10/steps-login.png" loading="lazy" src="https://korben.info/app/uploads/2020/10/steps-login.png" alt="" class="wp-image-119495" width="532" height="298"/></figure></div>
+
+
+
+<p>De mon côté, j&rsquo;ai implémenté la solution Unikname sur <a href="https://tech.korben.info">mon forum</a>. Donc si vous voulez associer votre compte avec Unikname c&rsquo;est possible. Et si vous n&rsquo;avez pas encore de compte sur le forum, vous pouvez vous y inscrire simplement avec votre Unikname.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="119866" data-permalink="https://korben.info/articles/unikname__trashed/korben20200417144706-897-1" data-orig-file="https://korben.info/app/uploads/2020/11/korben20200417144706-897-1.jpg" data-orig-size="1079,755" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-897-1" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/korben20200417144706-897-1-300x210.jpg" data-large-file="https://korben.info/app/uploads/2020/11/korben20200417144706-897-1-1024x717.jpg" loading="lazy" width="1024" height="717" src="https://korben.info/app/uploads/2020/11/korben20200417144706-897-1-1024x717.jpg" alt="" class="wp-image-119866" srcset="https://korben.info/app/uploads/2020/11/korben20200417144706-897-1-1024x717.jpg 1024w, https://korben.info/app/uploads/2020/11/korben20200417144706-897-1-300x210.jpg 300w, https://korben.info/app/uploads/2020/11/korben20200417144706-897-1-768x537.jpg 768w, https://korben.info/app/uploads/2020/11/korben20200417144706-897-1.jpg 1079w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>Évidemment, cela ne fonctionne qu&rsquo;avec les sites qui ont implémenté la solution <a href="https://www.unikname.com/a-propos-equipe-unikname/" data-type="URL" data-id="https://www.unikname.com/a-propos-equipe-unikname/">comme tous ceux que vous pouvez retrouver ici</a>. Si ce n&rsquo;est pas encore sur votre site ou forum préféré, il suffit de contacter son webmaster pour lui demander de mettre unikname en place.</p>
+
+
+
+<p>Aucune donnée personnelle des utilisateurs d&rsquo;unikname n&rsquo;est utilisée et il n&rsquo;y a aucun historique de connexion, ce qui en fait la solution d&rsquo;authentification la plus propre à ce jour. </p>
+
+
+
+<p>En termes de sécurité, je vous invite à consulter <a href="https://docs.unikname.com/5-security/security-hack-protections.html">cette page détaillant les systèmes de protection implémentés dans la technologie</a>. Et bonne nouvelle, ils ont également une page <a href="https://docs.unikname.com/5-security/security-vulnerabilities.html">pour la remontée de vulnérabilités</a>.</p>
+
+
+
+<p>Les entreprises ou services web qui le souhaitent peuvent implémenter la solution assez simplement à l&rsquo;aide des extensions pour Woocommerce, WordPress, Discourse ou simplement à l&rsquo;aide du SDK NodeJS ou des API OAuth2 et OpenID Connect (OIDC). Et cela peut fonctionner en plus des systèmes d&rsquo;authentification existants. Unikname est simplement un choix supplémentaire et sécurisé que les entreprises peuvent proposer à leurs utilisateurs.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img data-attachment-id="119444" data-permalink="https://korben.info/articles/unikname__trashed/korben20200417144706-12-4" data-orig-file="https://korben.info/app/uploads/2020/10/korben20200417144706-12.jpg" data-orig-size="952,296" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-12" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/10/korben20200417144706-12-300x93.jpg" data-large-file="https://korben.info/app/uploads/2020/10/korben20200417144706-12.jpg" loading="lazy" src="https://korben.info/app/uploads/2020/10/korben20200417144706-12.jpg" alt="" class="wp-image-119444" width="500" height="155" srcset="https://korben.info/app/uploads/2020/10/korben20200417144706-12.jpg 952w, https://korben.info/app/uploads/2020/10/korben20200417144706-12-300x93.jpg 300w, https://korben.info/app/uploads/2020/10/korben20200417144706-12-768x239.jpg 768w" sizes="(max-width: 500px) 100vw, 500px" /></figure></div>
+
+
+
+<p>D&rsquo;ailleurs, si vous souhaitez l&rsquo;implémenter sur votre site, <a href="https://docs.unikname.com">la documentation se trouve ici.</a></p>
+
+
+
+<figure class="wp-block-embed-vimeo aligncenter wp-block-embed is-type-video is-provider-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="L&#039;identifiant nouvelle g&amp;eacute;n&amp;eacute;ration de connexion" src="https://player.vimeo.com/video/456859616?dnt=1&amp;app_id=122963" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><strong>Combien ça coûte ?</strong> </p>
+
+
+
+<p>Et bien Unikname est gratuit pour les utilisateurs et payant pour les entreprises. Pour ceux qui souhaitent s’authentifier anonymement, installez <a href="https://kover.link/idLI67" data-type="URL" data-id="https://kover.link/idLI67">My Unikname App</a> depuis votre smartphone.</p>
+
+
+
+<p>Bonne nouvelle, à l’occasion de cet article, Unikname vous offre un coupon promo pour créer votre <strong>@unikname court</strong> (à partir de 8 caractères) ! Il vous suffit de vous rendre dans votre app, et au moment de la création de votre identifiant unique (valable à vie) entrez le code <strong>KORBEN8</strong>.</p>
+
+
+
+<p>Pour les entreprises qui seraient intéressées d’intégrer le bouton de connexion Unikname Connect sur leur site web, vous pouvez tester la solution pendant 3 mois gratuitement ! <a href="https://help.unikname.com/3-unikname-connect/#integrate-unikname-connect-on-your-website" data-type="URL" data-id="https://help.unikname.com/3-unikname-connect/#integrate-unikname-connect-on-your-website">Vous avez la possibilité d’installer le plugin par vous-même en suivant le guide en ligne ou être accompagné par un conseiller</a>. À la suite de cette période, vous avez le choix entre différents abonnements :</p>
+
+
+
+<ul><li>Basecamp : pour les sites vitrines et agences web</li><li>Apollo : pour les plateformes SaaS et sites e-commerce</li><li>Passenger : pour les entreprises</li></ul>
+
+
+
+<p>En parallèle des packs proposés, il existe aussi un tarif adapté pour les grandes entreprises gérant plusieurs comptes, et également un plan gratuit pour les plateformes communautaires (utilisant Discourse).</p>
+
+
+
+<p><a href="https://www.unikname.com/pricing-offres-unikname-connect/">P</a><a href="https://www.unikname.com/tarifs-offres-unikname-connect/" data-type="URL" data-id="https://www.unikname.com/tarifs-offres-unikname-connect/">lus d’infos sur les offres ici.</a></p>
+<div id="QOZDhPIS-1360988277"><hr style="border-bottom: 2px solid #cfd6df;"></hr>
+<article class="post-90949 post type-post status-publish format-standard has-post-thumbnail hentry category-video" itemscope="" itemtype="https://schema.org/Article">
+<header class="entry-header">
+<h1><a style="background: none" href="https://korben.info/kbn_/119719" target="_blank">Le vigile de votre serveur qui recale les mauvaises adresses IP </a></h1>
+</header>
+<div class="entry-content" itemprop="articleBody">
+<p style="margin-top:20px;"><a href="https://korben.info/kbn_/119719" target="_blank"><img loading="lazy" class="overflowing alignnone" src="https://korben.info/app/uploads/2020/11/Screenshot_2020-11-02-CrowdSec-the-next-gen-open-source-crowd-powered-dynamic-firewall.png" alt="" width="600px" height="px"></a></p>
+<p style="margin-top:20px;">
+    <strong>Envie de savoir ce qui transite via votre adresse ip ?<br />
+</strong></p>
+<p> la cybersécurité n’est pas uniquement une problématique de moyens financiers. C’est également une question d’outils défensifs, de périmètre technique, d’accès non filtrés et surtout de course après le temps.</p>
+<p>Il faut donc être capable d’analyser en temps réel ces accès non filtrés, de détecter ceux qui seraient frauduleux</p>
+<p>CrowdSec est un outil 100% open source qui combine 2 idées très connues des administrateurs de serveurs.</p>
+<li>Crowdsec est capable de bannir automatiquement une IP se connectant sur votre serveur, un peu à la manière d’un Fail2ban</li>
+<li>Et il est capable de proposer une base de données de ces IPs à la communauté des utilisateurs CrowdSec, un peu comme le fait AbuseIPDB, afin de faire circuler l’info rapidement et que chacun puisse être protégé à son tour. </li>
+<p>Cela vous permet de détecter tous les types d’attaques et d’y répondre de manière proportionnée</p>
+<div style="font-size: 24px; margin-top:50px;" class="post-categories">
+  <a href="https://korben.info/kbn_/119719" target="_blank" class="">En Savoir + sur Crowdsec et le tester</a>
+</div>
+</p>
+</div>
+<hr style="border-bottom: 2px solid transparent;">
+</article>
+</div><script type="text/plain" data-tcf="waiting-for-consent" data-id="118889" data-bid="1" data-placement="sous-article-avec-rotation">PGRpdiBpZD0iUU9aRGhQSVMtMTMyMTQ5NjE2NSI+PGRpdiBpZD0iNjk1NjktMiI+PHNjcmlwdCBzcmM9Ii8vYWRzLnRoZW1vbmV5dGl6ZXIuY29tL3MvZ2VuLmpzP3R5cGU9MiI+PC9zY3JpcHQ+PHNjcmlwdCBzcmM9Ii8vYWRzLnRoZW1vbmV5dGl6ZXIuY29tL3MvcmVxdWVzdGZvcm0uanM/c2l0ZUlkPTY5NTY5JiMwMzg7Zm9ybWF0SWQ9MiI+PC9zY3JpcHQ+PC9kaXY+CjwvZGl2PjxiciBzdHlsZT0iY2xlYXI6IGJvdGg7IGRpc3BsYXk6IGJsb2NrOyBmbG9hdDogbm9uZTsiLz4=</script>]]></content:encoded>
+					
+					<wfw:commentRss>https://korben.info/unikname.html/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>RunJS &#8211; Un notebook pour imaginer ou tester de nouveaux codes JS</title>
+		<link>https://korben.info/runjs-tester-javascript.html</link>
+					<comments>https://korben.info/runjs-tester-javascript.html#respond</comments>
+		
+		<dc:creator><![CDATA[Korben]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2020 08:00:00 +0000</pubDate>
+				<category><![CDATA[Développement]]></category>
+		<category><![CDATA[Développeurs]]></category>
+		<category><![CDATA[Linuxiens]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[notebook]]></category>
+		<category><![CDATA[RunJS]]></category>
+		<guid isPermaLink="false">https://korben.info/?p=118908</guid>
+
+					<description><![CDATA[Si vous voulez tester un peu de JavaScript sans avoir à sortir l&#8217;artillerie lourde en matière d&#8217;IDE, je vous invite à tester RunJS. Cette application bac à sable pour macOS, Windows et Linux va vous permettre d&#8217;écrire du JavaScript de manière parfaitement fluide tout en vous proposant un affichage en &#8230; <a href="https://korben.info/runjs-tester-javascript.html">Suite</a>]]></description>
+										<content:encoded><![CDATA[<p><img width="2415" height="712" src="https://korben.info/app/uploads/2020/09/korben20200417144706-8.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://korben.info/app/uploads/2020/09/korben20200417144706-8.jpg 2415w, https://korben.info/app/uploads/2020/09/korben20200417144706-8-300x88.jpg 300w, https://korben.info/app/uploads/2020/09/korben20200417144706-8-1024x302.jpg 1024w, https://korben.info/app/uploads/2020/09/korben20200417144706-8-768x226.jpg 768w, https://korben.info/app/uploads/2020/09/korben20200417144706-8-1536x453.jpg 1536w, https://korben.info/app/uploads/2020/09/korben20200417144706-8-2048x604.jpg 2048w" sizes="(max-width: 2415px) 100vw, 2415px" data-attachment-id="118913" data-permalink="https://korben.info/runjs-tester-javascript.html/korben20200417144706-8-4" data-orig-file="https://korben.info/app/uploads/2020/09/korben20200417144706-8.jpg" data-orig-size="2415,712" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-8" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/korben20200417144706-8-300x88.jpg" data-large-file="https://korben.info/app/uploads/2020/09/korben20200417144706-8-1024x302.jpg"></p>
+<p>Si vous voulez tester un peu de JavaScript sans avoir à sortir l&rsquo;artillerie lourde en matière d&rsquo;IDE, je vous invite à tester <strong><a href="https://runjs.dev/">RunJS</a></strong>.</p>
+
+
+
+<p>Cette application bac à sable pour macOS, Windows et Linux va vous permettre d&rsquo;écrire du JavaScript de manière parfaitement fluide tout en vous proposant un affichage en live de la sortie. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="118912" data-permalink="https://korben.info/runjs-tester-javascript.html/korben20200417144706-624-1" data-orig-file="https://korben.info/app/uploads/2020/09/korben20200417144706-624-1-scaled.jpg" data-orig-size="2560,1438" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-624-1" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/korben20200417144706-624-1-300x169.jpg" data-large-file="https://korben.info/app/uploads/2020/09/korben20200417144706-624-1-1024x575.jpg" loading="lazy" width="1024" height="575" src="https://korben.info/app/uploads/2020/09/korben20200417144706-624-1-1024x575.jpg" alt="" class="wp-image-118912" srcset="https://korben.info/app/uploads/2020/09/korben20200417144706-624-1-1024x575.jpg 1024w, https://korben.info/app/uploads/2020/09/korben20200417144706-624-1-300x169.jpg 300w, https://korben.info/app/uploads/2020/09/korben20200417144706-624-1-768x431.jpg 768w, https://korben.info/app/uploads/2020/09/korben20200417144706-624-1-1536x863.jpg 1536w, https://korben.info/app/uploads/2020/09/korben20200417144706-624-1-2048x1150.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>Bardé d&rsquo;options pour  vous sentir à l&rsquo;aise dans l&rsquo;écriture de votre code, RunJS vous permet également de tester <strong>de nouveaux modules (node)</strong> sur le pouce ou de transpiler (convertir en gros), du code ES6 en ES5 pour la rétrocompatibilité.</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="118909" data-permalink="https://korben.info/runjs-tester-javascript.html/korben20200417144706-625" data-orig-file="https://korben.info/app/uploads/2020/09/korben20200417144706-625.jpg" data-orig-size="1424,940" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-625" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/korben20200417144706-625-300x198.jpg" data-large-file="https://korben.info/app/uploads/2020/09/korben20200417144706-625-1024x676.jpg" loading="lazy" width="1024" height="676" src="https://korben.info/app/uploads/2020/09/korben20200417144706-625-1024x676.jpg" alt="" class="wp-image-118909" srcset="https://korben.info/app/uploads/2020/09/korben20200417144706-625-1024x676.jpg 1024w, https://korben.info/app/uploads/2020/09/korben20200417144706-625-300x198.jpg 300w, https://korben.info/app/uploads/2020/09/korben20200417144706-625-768x507.jpg 768w, https://korben.info/app/uploads/2020/09/korben20200417144706-625.jpg 1424w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>RunJS permet également de choisir un petit thème pour faire zizir à vos petits yeux.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="118910" data-permalink="https://korben.info/runjs-tester-javascript.html/korben20200417144706-626" data-orig-file="https://korben.info/app/uploads/2020/09/korben20200417144706-626-scaled.jpg" data-orig-size="2560,1666" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-626" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/korben20200417144706-626-300x195.jpg" data-large-file="https://korben.info/app/uploads/2020/09/korben20200417144706-626-1024x666.jpg" loading="lazy" width="1024" height="666" src="https://korben.info/app/uploads/2020/09/korben20200417144706-626-1024x666.jpg" alt="" class="wp-image-118910" srcset="https://korben.info/app/uploads/2020/09/korben20200417144706-626-1024x666.jpg 1024w, https://korben.info/app/uploads/2020/09/korben20200417144706-626-300x195.jpg 300w, https://korben.info/app/uploads/2020/09/korben20200417144706-626-768x500.jpg 768w, https://korben.info/app/uploads/2020/09/korben20200417144706-626-1536x999.jpg 1536w, https://korben.info/app/uploads/2020/09/korben20200417144706-626-2048x1333.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p><a href="https://runjs.dev/">À découvrir ici.</a></p>
+<div id="QOZDhPIS-1763573946"><hr style="border-bottom: 2px solid #cfd6df;"></hr>
+<article class="post-90949 post type-post status-publish format-standard has-post-thumbnail hentry category-video" itemscope="" itemtype="https://schema.org/Article">
+<header class="entry-header">
+<h1><a style="background: none" href="https://korben.info/kbn_/119719" target="_blank">Le vigile de votre serveur qui recale les mauvaises adresses IP </a></h1>
+</header>
+<div class="entry-content" itemprop="articleBody">
+<p style="margin-top:20px;"><a href="https://korben.info/kbn_/119719" target="_blank"><img loading="lazy" class="overflowing alignnone" src="https://korben.info/app/uploads/2020/11/Screenshot_2020-11-02-CrowdSec-the-next-gen-open-source-crowd-powered-dynamic-firewall.png" alt="" width="600px" height="px"></a></p>
+<p style="margin-top:20px;">
+    <strong>Envie de savoir ce qui transite via votre adresse ip ?<br />
+</strong></p>
+<p> la cybersécurité n’est pas uniquement une problématique de moyens financiers. C’est également une question d’outils défensifs, de périmètre technique, d’accès non filtrés et surtout de course après le temps.</p>
+<p>Il faut donc être capable d’analyser en temps réel ces accès non filtrés, de détecter ceux qui seraient frauduleux</p>
+<p>CrowdSec est un outil 100% open source qui combine 2 idées très connues des administrateurs de serveurs.</p>
+<li>Crowdsec est capable de bannir automatiquement une IP se connectant sur votre serveur, un peu à la manière d’un Fail2ban</li>
+<li>Et il est capable de proposer une base de données de ces IPs à la communauté des utilisateurs CrowdSec, un peu comme le fait AbuseIPDB, afin de faire circuler l’info rapidement et que chacun puisse être protégé à son tour. </li>
+<p>Cela vous permet de détecter tous les types d’attaques et d’y répondre de manière proportionnée</p>
+<div style="font-size: 24px; margin-top:50px;" class="post-categories">
+  <a href="https://korben.info/kbn_/119719" target="_blank" class="">En Savoir + sur Crowdsec et le tester</a>
+</div>
+</p>
+</div>
+<hr style="border-bottom: 2px solid transparent;">
+</article>
+</div><script type="text/plain" data-tcf="waiting-for-consent" data-id="118889" data-bid="1" data-placement="sous-article-avec-rotation">PGRpdiBpZD0iUU9aRGhQSVMtODcyODQwMjU5Ij48ZGl2IGlkPSI2OTU2OS0yIj48c2NyaXB0IHNyYz0iLy9hZHMudGhlbW9uZXl0aXplci5jb20vcy9nZW4uanM/dHlwZT0yIj48L3NjcmlwdD48c2NyaXB0IHNyYz0iLy9hZHMudGhlbW9uZXl0aXplci5jb20vcy9yZXF1ZXN0Zm9ybS5qcz9zaXRlSWQ9Njk1NjkmIzAzODtmb3JtYXRJZD0yIj48L3NjcmlwdD48L2Rpdj4KPC9kaXY+PGJyIHN0eWxlPSJjbGVhcjogYm90aDsgZGlzcGxheTogYmxvY2s7IGZsb2F0OiBub25lOyIvPg==</script>]]></content:encoded>
+					
+					<wfw:commentRss>https://korben.info/runjs-tester-javascript.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Exfiltrer des données d&#8217;un réseau airgap grâce aux ondes radio</title>
+		<link>https://korben.info/exfiltrer-donnees-reseau-airgap-radios.html</link>
+					<comments>https://korben.info/exfiltrer-donnees-reseau-airgap-radios.html#respond</comments>
+		
+		<dc:creator><![CDATA[Korben]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2020 09:04:56 +0000</pubDate>
+				<category><![CDATA[Sécurité]]></category>
+		<category><![CDATA[airgap]]></category>
+		<category><![CDATA[airgapped]]></category>
+		<category><![CDATA[morce]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">https://korben.info/?p=119846</guid>
+
+					<description><![CDATA[Dans le même esprit que les systèmes TEMPEST permettant d&#8217;intercepter des informations via les ondes radio, Jacek Lipkowski a mis au point des scripts que vous pouvez télécharger ici, qui permettent d&#8217;exfiltrer de la donnée d&#8217;un ordinateur isolé d&#8217;Internet via les ondes radio. Définition de airgap : Un ordinateur ou &#8230; <a href="https://korben.info/exfiltrer-donnees-reseau-airgap-radios.html">Suite</a>]]></description>
+										<content:encoded><![CDATA[<p><img width="1000" height="348" src="https://korben.info/app/uploads/2020/11/thomas-jensen-h3vT1Kp0FxA-unsplash.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://korben.info/app/uploads/2020/11/thomas-jensen-h3vT1Kp0FxA-unsplash.jpg 1000w, https://korben.info/app/uploads/2020/11/thomas-jensen-h3vT1Kp0FxA-unsplash-300x104.jpg 300w, https://korben.info/app/uploads/2020/11/thomas-jensen-h3vT1Kp0FxA-unsplash-768x267.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-attachment-id="119848" data-permalink="https://korben.info/exfiltrer-donnees-reseau-airgap-radios.html/thomas-jensen-h3vt1kp0fxa-unsplash" data-orig-file="https://korben.info/app/uploads/2020/11/thomas-jensen-h3vT1Kp0FxA-unsplash.jpg" data-orig-size="1000,348" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="thomas-jensen-h3vT1Kp0FxA-unsplash" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/thomas-jensen-h3vT1Kp0FxA-unsplash-300x104.jpg" data-large-file="https://korben.info/app/uploads/2020/11/thomas-jensen-h3vT1Kp0FxA-unsplash.jpg"></p>
+<p>Dans le même esprit que les systèmes TEMPEST permettant d&rsquo;intercepter des informations via les ondes radio, <a href="https://lipkowski.com/etherify/">Jacek Lipkowski a mis au point des scripts</a> que vous pouvez télécharger ici, qui permettent d&rsquo;exfiltrer de la donnée d&rsquo;un ordinateur isolé d&rsquo;Internet via les ondes radio.</p>
+
+
+
+<p><span style="text-decoration: underline;">Définition de airgap</span><em> : Un ordinateur ou un réseau « air-gapped » est un ordinateur ou un réseau qui ne possède aucune interface réseau, câblée ou sans fil, <strong>connectée à des réseaux extérieurs</strong>.</em></p>
+
+
+
+<p>Comment ça fonctionne ? Et bien, imaginez qu&rsquo;il y ait un ordinateur non connecté à internet, mais quand même relié à un réseau local Ethernet. Un attaquant pourrait y déployer un malware (en ayant accès physiquement à la machine), et modifier avec le script fourni la vitesse de connexion au réseau filaire. Par exemple osciller entre 100 Mb/s et 10Mb/s. </p>
+
+
+
+<p>Cela modifie les ondes produites par la machine et diffusées au travers des fils de cuivre du câble Ethernet. Ces ondes sont ensuite captées via un récepteur radio (RTL-SDR) puis décodées.</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Etherify 1 demo receiving via SDR and decoding via fldigi" width="800" height="450" src="https://www.youtube.com/embed/ueC4SLPrtNg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Dans sa démo, son script modifie la vitesse du réseau pour communiquer en morse (eh oui&#8230;). Et avec sa clé SDR et les outils qui vont bien (Gqrx + fldigi), il reconstitue ce code.</p>
+
+
+
+<p>Si ça vous dit de tester, <a href="https://github.com/sq5bpf/etherify">le code source est ici.</a></p>
+<div id="QOZDhPIS-729021960"><hr style="border-bottom: 2px solid #cfd6df;"></hr>
+<article class="post-90949 post type-post status-publish format-standard has-post-thumbnail hentry category-video" itemscope="" itemtype="https://schema.org/Article">
+<header class="entry-header">
+<h1><a style="background: none" href="https://korben.info/kbn_/119719" target="_blank">Le vigile de votre serveur qui recale les mauvaises adresses IP </a></h1>
+</header>
+<div class="entry-content" itemprop="articleBody">
+<p style="margin-top:20px;"><a href="https://korben.info/kbn_/119719" target="_blank"><img loading="lazy" class="overflowing alignnone" src="https://korben.info/app/uploads/2020/11/Screenshot_2020-11-02-CrowdSec-the-next-gen-open-source-crowd-powered-dynamic-firewall.png" alt="" width="600px" height="px"></a></p>
+<p style="margin-top:20px;">
+    <strong>Envie de savoir ce qui transite via votre adresse ip ?<br />
+</strong></p>
+<p> la cybersécurité n’est pas uniquement une problématique de moyens financiers. C’est également une question d’outils défensifs, de périmètre technique, d’accès non filtrés et surtout de course après le temps.</p>
+<p>Il faut donc être capable d’analyser en temps réel ces accès non filtrés, de détecter ceux qui seraient frauduleux</p>
+<p>CrowdSec est un outil 100% open source qui combine 2 idées très connues des administrateurs de serveurs.</p>
+<li>Crowdsec est capable de bannir automatiquement une IP se connectant sur votre serveur, un peu à la manière d’un Fail2ban</li>
+<li>Et il est capable de proposer une base de données de ces IPs à la communauté des utilisateurs CrowdSec, un peu comme le fait AbuseIPDB, afin de faire circuler l’info rapidement et que chacun puisse être protégé à son tour. </li>
+<p>Cela vous permet de détecter tous les types d’attaques et d’y répondre de manière proportionnée</p>
+<div style="font-size: 24px; margin-top:50px;" class="post-categories">
+  <a href="https://korben.info/kbn_/119719" target="_blank" class="">En Savoir + sur Crowdsec et le tester</a>
+</div>
+</p>
+</div>
+<hr style="border-bottom: 2px solid transparent;">
+</article>
+</div><script type="text/plain" data-tcf="waiting-for-consent" data-id="118889" data-bid="1" data-placement="sous-article-avec-rotation">PGRpdiBpZD0iUU9aRGhQSVMtMTQ3OTQ0MDMzIj48ZGl2IGlkPSI2OTU2OS0yIj48c2NyaXB0IHNyYz0iLy9hZHMudGhlbW9uZXl0aXplci5jb20vcy9nZW4uanM/dHlwZT0yIj48L3NjcmlwdD48c2NyaXB0IHNyYz0iLy9hZHMudGhlbW9uZXl0aXplci5jb20vcy9yZXF1ZXN0Zm9ybS5qcz9zaXRlSWQ9Njk1NjkmIzAzODtmb3JtYXRJZD0yIj48L3NjcmlwdD48L2Rpdj4KPC9kaXY+PGJyIHN0eWxlPSJjbGVhcjogYm90aDsgZGlzcGxheTogYmxvY2s7IGZsb2F0OiBub25lOyIvPg==</script>]]></content:encoded>
+					
+					<wfw:commentRss>https://korben.info/exfiltrer-donnees-reseau-airgap-radios.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>L&#8217;application qui vous aidera à sauver des vies</title>
+		<link>https://korben.info/lapplication-qui-vous-aidera-a-sauver-des-vies.html</link>
+					<comments>https://korben.info/lapplication-qui-vous-aidera-a-sauver-des-vies.html#comments</comments>
+		
+		<dc:creator><![CDATA[Korben]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2020 08:00:00 +0000</pubDate>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[application android]]></category>
+		<category><![CDATA[application iOS]]></category>
+		<category><![CDATA[croix-rouge]]></category>
+		<guid isPermaLink="false">https://korben.info/?p=118897</guid>
+
+					<description><![CDATA[Peu de gens le savent mais la Croix Rouge propose une super application sous Android et iOS qui vous permet d&#8217;apprendre les procédures à appliquer en cas d&#8217;incident impactant la santé des gens. Dans L&#8217;Appli Qui Sauve, c&#8217;est donc tout une liste de « howto » concernant les allergies, les AVC, les &#8230; <a href="https://korben.info/lapplication-qui-vous-aidera-a-sauver-des-vies.html">Suite</a>]]></description>
+										<content:encoded><![CDATA[<p><img width="2560" height="820" src="https://korben.info/app/uploads/2020/09/mika-baumeister-WHPiIbMMgWY-unsplash-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://korben.info/app/uploads/2020/09/mika-baumeister-WHPiIbMMgWY-unsplash-scaled.jpg 2560w, https://korben.info/app/uploads/2020/09/mika-baumeister-WHPiIbMMgWY-unsplash-300x96.jpg 300w, https://korben.info/app/uploads/2020/09/mika-baumeister-WHPiIbMMgWY-unsplash-1024x328.jpg 1024w, https://korben.info/app/uploads/2020/09/mika-baumeister-WHPiIbMMgWY-unsplash-768x246.jpg 768w, https://korben.info/app/uploads/2020/09/mika-baumeister-WHPiIbMMgWY-unsplash-1536x492.jpg 1536w, https://korben.info/app/uploads/2020/09/mika-baumeister-WHPiIbMMgWY-unsplash-2048x656.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" data-attachment-id="118903" data-permalink="https://korben.info/lapplication-qui-vous-aidera-a-sauver-des-vies.html/mika-baumeister-whpiibmmgwy-unsplash" data-orig-file="https://korben.info/app/uploads/2020/09/mika-baumeister-WHPiIbMMgWY-unsplash-scaled.jpg" data-orig-size="2560,820" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mika-baumeister-WHPiIbMMgWY-unsplash" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/mika-baumeister-WHPiIbMMgWY-unsplash-300x96.jpg" data-large-file="https://korben.info/app/uploads/2020/09/mika-baumeister-WHPiIbMMgWY-unsplash-1024x328.jpg"></p>
+<p>Peu de gens le savent mais la Croix Rouge propose une super application sous Android et iOS qui vous permet d&rsquo;apprendre les procédures à appliquer en cas d&rsquo;incident impactant la santé des gens.</p>
+
+
+
+<p>Dans L&rsquo;Appli Qui Sauve, c&rsquo;est donc tout une liste de « howto » concernant les allergies, les AVC, les brûlures, la Covid évidemment, sans oublier tout le reste comme la crise cardiaque, les empoisonnements, les hemorragies et compagnie.</p>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped"><ul data-carousel-extra='{"blog_id":1,"permalink":"https:\/\/korben.info\/lapplication-qui-vous-aidera-a-sauver-des-vies.html"}' class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img data-attachment-id="118902" data-permalink="https://korben.info/lapplication-qui-vous-aidera-a-sauver-des-vies.html/img_1866" data-orig-file="https://korben.info/app/uploads/2020/09/IMG_1866.png" data-orig-size="828,1792" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="IMG_1866" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/IMG_1866-139x300.png" data-large-file="https://korben.info/app/uploads/2020/09/IMG_1866-473x1024.png" loading="lazy" width="473" height="1024" src="https://korben.info/app/uploads/2020/09/IMG_1866-473x1024.png" alt="" data-id="118902" data-full-url="https://korben.info/app/uploads/2020/09/IMG_1866.png" data-link="https://korben.info/?attachment_id=118902" class="wp-image-118902" srcset="https://korben.info/app/uploads/2020/09/IMG_1866-473x1024.png 473w, https://korben.info/app/uploads/2020/09/IMG_1866-139x300.png 139w, https://korben.info/app/uploads/2020/09/IMG_1866-768x1662.png 768w, https://korben.info/app/uploads/2020/09/IMG_1866-710x1536.png 710w, https://korben.info/app/uploads/2020/09/IMG_1866.png 828w" sizes="(max-width: 473px) 100vw, 473px" /></figure></li><li class="blocks-gallery-item"><figure><img data-attachment-id="118901" data-permalink="https://korben.info/lapplication-qui-vous-aidera-a-sauver-des-vies.html/img_1867" data-orig-file="https://korben.info/app/uploads/2020/09/IMG_1867.png" data-orig-size="828,1792" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="IMG_1867" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/IMG_1867-139x300.png" data-large-file="https://korben.info/app/uploads/2020/09/IMG_1867-473x1024.png" loading="lazy" width="473" height="1024" src="https://korben.info/app/uploads/2020/09/IMG_1867-473x1024.png" alt="" data-id="118901" data-full-url="https://korben.info/app/uploads/2020/09/IMG_1867.png" data-link="https://korben.info/?attachment_id=118901" class="wp-image-118901" srcset="https://korben.info/app/uploads/2020/09/IMG_1867-473x1024.png 473w, https://korben.info/app/uploads/2020/09/IMG_1867-139x300.png 139w, https://korben.info/app/uploads/2020/09/IMG_1867-768x1662.png 768w, https://korben.info/app/uploads/2020/09/IMG_1867-710x1536.png 710w, https://korben.info/app/uploads/2020/09/IMG_1867.png 828w" sizes="(max-width: 473px) 100vw, 473px" /></figure></li></ul></figure>
+
+
+
+<p>Conçue premièrement pour s&rsquo;initier aux gestes de premiers secours, l&rsquo;application peut également vous guider dans le cadre d&rsquo;une urgence réelle avec des étapes claires à respecter qui d&rsquo;ailleurs se terminent souvent par « <em>Appelez le 15 ou le 18</em>« .</p>
+
+
+
+<p>Mais l&rsquo;application va encore plus loin dans le délire puisqu&rsquo;elle vous permet de vous préparer à des situations dramatiques comme un Tsunami, une attaque terroriste, une vidéo de Jean Marie Bigard ou un incendie de forêt. Il y a en pour tous les goûts !</p>
+
+
+
+<div data-carousel-extra='{"blog_id":1,"permalink":"https:\/\/korben.info\/lapplication-qui-vous-aidera-a-sauver-des-vies.html"}' class="wp-block-image"><figure class="aligncenter size-large is-resized"><img data-attachment-id="118900" data-permalink="https://korben.info/lapplication-qui-vous-aidera-a-sauver-des-vies.html/img_1869" data-orig-file="https://korben.info/app/uploads/2020/09/IMG_1869.png" data-orig-size="828,1792" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="IMG_1869" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/IMG_1869-139x300.png" data-large-file="https://korben.info/app/uploads/2020/09/IMG_1869-473x1024.png" loading="lazy" src="https://korben.info/app/uploads/2020/09/IMG_1869-473x1024.png" alt="" class="wp-image-118900" width="341" height="738" srcset="https://korben.info/app/uploads/2020/09/IMG_1869-473x1024.png 473w, https://korben.info/app/uploads/2020/09/IMG_1869-139x300.png 139w, https://korben.info/app/uploads/2020/09/IMG_1869-768x1662.png 768w, https://korben.info/app/uploads/2020/09/IMG_1869-710x1536.png 710w, https://korben.info/app/uploads/2020/09/IMG_1869.png 828w" sizes="(max-width: 341px) 100vw, 341px" /></figure></div>
+
+
+
+<p>C&rsquo;est vraiment une super découverte qui évidemment ne remplacera pas une véritable formation de secourisme mais qui répondra aux interrogations des plus curieux comme moi ou qui permettra de canaliser et guider les gens souhaitant aider d&rsquo;autres personnes en situation d&rsquo;urgence.</p>
+
+
+
+<p>A télécharger <a href="https://play.google.com/store/apps/details?id=com.tkm.crf&amp;hl=fr">ici pour Android</a> et <a href="https://apps.apple.com/fr/app/lappli-qui-sauve-croix-rouge/id407785632">ici pour les iPhone / iPad</a>.</p>
+<div id="QOZDhPIS-295755213"><hr style="border-bottom: 2px solid #cfd6df;"></hr>
+<article class="post-90949 post type-post status-publish format-standard has-post-thumbnail hentry category-video" itemscope="" itemtype="https://schema.org/Article">
+<header class="entry-header">
+<h1><a style="background: none" href="https://korben.info/kbn_/119719" target="_blank">Le vigile de votre serveur qui recale les mauvaises adresses IP </a></h1>
+</header>
+<div class="entry-content" itemprop="articleBody">
+<p style="margin-top:20px;"><a href="https://korben.info/kbn_/119719" target="_blank"><img loading="lazy" class="overflowing alignnone" src="https://korben.info/app/uploads/2020/11/Screenshot_2020-11-02-CrowdSec-the-next-gen-open-source-crowd-powered-dynamic-firewall.png" alt="" width="600px" height="px"></a></p>
+<p style="margin-top:20px;">
+    <strong>Envie de savoir ce qui transite via votre adresse ip ?<br />
+</strong></p>
+<p> la cybersécurité n’est pas uniquement une problématique de moyens financiers. C’est également une question d’outils défensifs, de périmètre technique, d’accès non filtrés et surtout de course après le temps.</p>
+<p>Il faut donc être capable d’analyser en temps réel ces accès non filtrés, de détecter ceux qui seraient frauduleux</p>
+<p>CrowdSec est un outil 100% open source qui combine 2 idées très connues des administrateurs de serveurs.</p>
+<li>Crowdsec est capable de bannir automatiquement une IP se connectant sur votre serveur, un peu à la manière d’un Fail2ban</li>
+<li>Et il est capable de proposer une base de données de ces IPs à la communauté des utilisateurs CrowdSec, un peu comme le fait AbuseIPDB, afin de faire circuler l’info rapidement et que chacun puisse être protégé à son tour. </li>
+<p>Cela vous permet de détecter tous les types d’attaques et d’y répondre de manière proportionnée</p>
+<div style="font-size: 24px; margin-top:50px;" class="post-categories">
+  <a href="https://korben.info/kbn_/119719" target="_blank" class="">En Savoir + sur Crowdsec et le tester</a>
+</div>
+</p>
+</div>
+<hr style="border-bottom: 2px solid transparent;">
+</article>
+</div><script type="text/plain" data-tcf="waiting-for-consent" data-id="118889" data-bid="1" data-placement="sous-article-avec-rotation">PGRpdiBpZD0iUU9aRGhQSVMtMTc1NjQ3NTA3MCI+PGRpdiBpZD0iNjk1NjktMiI+PHNjcmlwdCBzcmM9Ii8vYWRzLnRoZW1vbmV5dGl6ZXIuY29tL3MvZ2VuLmpzP3R5cGU9MiI+PC9zY3JpcHQ+PHNjcmlwdCBzcmM9Ii8vYWRzLnRoZW1vbmV5dGl6ZXIuY29tL3MvcmVxdWVzdGZvcm0uanM/c2l0ZUlkPTY5NTY5JiMwMzg7Zm9ybWF0SWQ9MiI+PC9zY3JpcHQ+PC9kaXY+CjwvZGl2PjxiciBzdHlsZT0iY2xlYXI6IGJvdGg7IGRpc3BsYXk6IGJsb2NrOyBmbG9hdDogbm9uZTsiLz4=</script>]]></content:encoded>
+					
+					<wfw:commentRss>https://korben.info/lapplication-qui-vous-aidera-a-sauver-des-vies.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Réduire la consommation de RAM de Steam</title>
+		<link>https://korben.info/steam-reduire-consommation-ram.html</link>
+					<comments>https://korben.info/steam-reduire-consommation-ram.html#comments</comments>
+		
+		<dc:creator><![CDATA[Korben]]></dc:creator>
+		<pubDate>Sun, 08 Nov 2020 15:53:44 +0000</pubDate>
+				<category><![CDATA[Jeux vidéo]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[accélérer steam]]></category>
+		<category><![CDATA[mémoire steam]]></category>
+		<category><![CDATA[ram steam]]></category>
+		<category><![CDATA[steam]]></category>
+		<category><![CDATA[steam rame]]></category>
+		<guid isPermaLink="false">https://korben.info/?p=119824</guid>
+
+					<description><![CDATA[Si vous utilisez Steam pour vos jeux, vous avez peut-être déjà remarqué que celui-ci pompait quand même pas mal de RAM. La faute au client qui utilise un composant web (WebHelper) assez gourmand pour ouvrir les pages web liées au « magasin » Steam. Toutefois, il est possible de désactiver ce composant &#8230; <a href="https://korben.info/steam-reduire-consommation-ram.html">Suite</a>]]></description>
+										<content:encoded><![CDATA[<p><img width="1000" height="563" src="https://korben.info/app/uploads/2020/11/4j3kfinalfy21.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://korben.info/app/uploads/2020/11/4j3kfinalfy21.jpg 1000w, https://korben.info/app/uploads/2020/11/4j3kfinalfy21-300x169.jpg 300w, https://korben.info/app/uploads/2020/11/4j3kfinalfy21-768x432.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-attachment-id="119835" data-permalink="https://korben.info/steam-reduire-consommation-ram.html/4j3kfinalfy21" data-orig-file="https://korben.info/app/uploads/2020/11/4j3kfinalfy21.jpg" data-orig-size="1000,563" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="4j3kfinalfy21" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/4j3kfinalfy21-300x169.jpg" data-large-file="https://korben.info/app/uploads/2020/11/4j3kfinalfy21.jpg"></p>
+<p>Si vous utilisez Steam pour vos jeux, vous avez peut-être déjà remarqué que celui-ci pompait quand même pas mal de RAM. La faute au client qui utilise un composant web (WebHelper) assez gourmand pour ouvrir les pages web liées au « magasin » Steam.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="119827" data-permalink="https://korben.info/steam-reduire-consommation-ram.html/korben20200417144706-873" data-orig-file="https://korben.info/app/uploads/2020/11/korben20200417144706-873.jpg" data-orig-size="1000,576" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="korben20200417144706-873" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/korben20200417144706-873-300x173.jpg" data-large-file="https://korben.info/app/uploads/2020/11/korben20200417144706-873.jpg" loading="lazy" width="1000" height="576" src="https://korben.info/app/uploads/2020/11/korben20200417144706-873.jpg" alt="" class="wp-image-119827" srcset="https://korben.info/app/uploads/2020/11/korben20200417144706-873.jpg 1000w, https://korben.info/app/uploads/2020/11/korben20200417144706-873-300x173.jpg 300w, https://korben.info/app/uploads/2020/11/korben20200417144706-873-768x442.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="119828" data-permalink="https://korben.info/steam-reduire-consommation-ram.html/korben20200417144706-878" data-orig-file="https://korben.info/app/uploads/2020/11/korben20200417144706-878.jpg" data-orig-size="996,520" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="korben20200417144706-878" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/korben20200417144706-878-300x157.jpg" data-large-file="https://korben.info/app/uploads/2020/11/korben20200417144706-878.jpg" loading="lazy" width="996" height="520" src="https://korben.info/app/uploads/2020/11/korben20200417144706-878.jpg" alt="" class="wp-image-119828" srcset="https://korben.info/app/uploads/2020/11/korben20200417144706-878.jpg 996w, https://korben.info/app/uploads/2020/11/korben20200417144706-878-300x157.jpg 300w, https://korben.info/app/uploads/2020/11/korben20200417144706-878-768x401.jpg 768w" sizes="(max-width: 996px) 100vw, 996px" /></figure></div>
+
+
+
+<p>Toutefois, il est possible de désactiver ce composant et d&rsquo;utiliser Steam pour lancer uniquement vos jeux grâce au mode mini.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="COMMENT ACCÉLÉRER STEAM ?" width="800" height="450" src="https://www.youtube.com/embed/D9z2DSd61yI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Alors, comment faire ? Et bien, fermez Steam (et tuez les processus qui pourraient rester en arrière-plan avec le gestionnaire de tâches) puis créez un nouveau raccourci sur votre bureau et donnez comme chemin d&rsquo;accès : </p>
+
+
+
+<pre class="wp-block-code"><code>"C:\\Program Files (x86)\\Steam\\steam.exe" -no-browser +open steam://open/minigameslist</code></pre>
+
+
+
+<p>Le paramètre <em>-no-browser</em> permet de désactiver le composant WebHelper de Steam et le paramètre <em>+open steam://open/minigameslist</em> permet de lancer Steam en mode mini.</p>
+
+
+
+<p>Lancez ensuite Steam via ce nouveau raccourci, et voici ce que vous verrez : </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img data-attachment-id="119829" data-permalink="https://korben.info/steam-reduire-consommation-ram.html/korben20200417144706-880" data-orig-file="https://korben.info/app/uploads/2020/11/korben20200417144706-880.jpg" data-orig-size="582,1222" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-880" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/korben20200417144706-880-143x300.jpg" data-large-file="https://korben.info/app/uploads/2020/11/korben20200417144706-880-488x1024.jpg" loading="lazy" src="https://korben.info/app/uploads/2020/11/korben20200417144706-880-488x1024.jpg" alt="" class="wp-image-119829" width="183" height="384" srcset="https://korben.info/app/uploads/2020/11/korben20200417144706-880-488x1024.jpg 488w, https://korben.info/app/uploads/2020/11/korben20200417144706-880-143x300.jpg 143w, https://korben.info/app/uploads/2020/11/korben20200417144706-880.jpg 582w" sizes="(max-width: 183px) 100vw, 183px" /></figure></div>
+
+
+
+<p>En observant la consommation de RAM, vous verrez que vous êtes passé de plusieurs centaines de Mo de RAM à quelques dizaines. Cool non ?</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img data-attachment-id="119833" data-permalink="https://korben.info/steam-reduire-consommation-ram.html/korben20200417144706-883-1" data-orig-file="https://korben.info/app/uploads/2020/11/korben20200417144706-883-1.jpg" data-orig-size="972,384" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="korben20200417144706-883-1" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/korben20200417144706-883-1-300x119.jpg" data-large-file="https://korben.info/app/uploads/2020/11/korben20200417144706-883-1.jpg" loading="lazy" src="https://korben.info/app/uploads/2020/11/korben20200417144706-883-1.jpg" alt="" class="wp-image-119833" width="520" height="205" srcset="https://korben.info/app/uploads/2020/11/korben20200417144706-883-1.jpg 972w, https://korben.info/app/uploads/2020/11/korben20200417144706-883-1-300x119.jpg 300w, https://korben.info/app/uploads/2020/11/korben20200417144706-883-1-768x303.jpg 768w" sizes="(max-width: 520px) 100vw, 520px" /></figure></div>
+
+
+
+<p>Et si vous repassez Steam en version « large » via le menu « Afficher », vous pourrez effectivement constater que le composant web browser n&rsquo;est pas chargé.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="119831" data-permalink="https://korben.info/steam-reduire-consommation-ram.html/korben20200417144706-884" data-orig-file="https://korben.info/app/uploads/2020/11/korben20200417144706-884.jpg" data-orig-size="1316,510" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-884" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/korben20200417144706-884-300x116.jpg" data-large-file="https://korben.info/app/uploads/2020/11/korben20200417144706-884-1024x397.jpg" loading="lazy" width="1024" height="397" src="https://korben.info/app/uploads/2020/11/korben20200417144706-884-1024x397.jpg" alt="" class="wp-image-119831" srcset="https://korben.info/app/uploads/2020/11/korben20200417144706-884-1024x397.jpg 1024w, https://korben.info/app/uploads/2020/11/korben20200417144706-884-300x116.jpg 300w, https://korben.info/app/uploads/2020/11/korben20200417144706-884-768x298.jpg 768w, https://korben.info/app/uploads/2020/11/korben20200417144706-884.jpg 1316w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p><a href="https://www.thewindowsclub.com/steam-is-using-too-much-memory-reduce-steam-ram-usage-using-these-tips">Source</a></p>
+<div id="QOZDhPIS-1491512817"><hr style="border-bottom: 2px solid #cfd6df;"></hr>
+<article class="post-90949 post type-post status-publish format-standard has-post-thumbnail hentry category-video" itemscope="" itemtype="https://schema.org/Article">
+<header class="entry-header">
+<h1><a style="background: none" href="https://korben.info/kbn_/119719" target="_blank">Le vigile de votre serveur qui recale les mauvaises adresses IP </a></h1>
+</header>
+<div class="entry-content" itemprop="articleBody">
+<p style="margin-top:20px;"><a href="https://korben.info/kbn_/119719" target="_blank"><img loading="lazy" class="overflowing alignnone" src="https://korben.info/app/uploads/2020/11/Screenshot_2020-11-02-CrowdSec-the-next-gen-open-source-crowd-powered-dynamic-firewall.png" alt="" width="600px" height="px"></a></p>
+<p style="margin-top:20px;">
+    <strong>Envie de savoir ce qui transite via votre adresse ip ?<br />
+</strong></p>
+<p> la cybersécurité n’est pas uniquement une problématique de moyens financiers. C’est également une question d’outils défensifs, de périmètre technique, d’accès non filtrés et surtout de course après le temps.</p>
+<p>Il faut donc être capable d’analyser en temps réel ces accès non filtrés, de détecter ceux qui seraient frauduleux</p>
+<p>CrowdSec est un outil 100% open source qui combine 2 idées très connues des administrateurs de serveurs.</p>
+<li>Crowdsec est capable de bannir automatiquement une IP se connectant sur votre serveur, un peu à la manière d’un Fail2ban</li>
+<li>Et il est capable de proposer une base de données de ces IPs à la communauté des utilisateurs CrowdSec, un peu comme le fait AbuseIPDB, afin de faire circuler l’info rapidement et que chacun puisse être protégé à son tour. </li>
+<p>Cela vous permet de détecter tous les types d’attaques et d’y répondre de manière proportionnée</p>
+<div style="font-size: 24px; margin-top:50px;" class="post-categories">
+  <a href="https://korben.info/kbn_/119719" target="_blank" class="">En Savoir + sur Crowdsec et le tester</a>
+</div>
+</p>
+</div>
+<hr style="border-bottom: 2px solid transparent;">
+</article>
+</div><script type="text/plain" data-tcf="waiting-for-consent" data-id="118889" data-bid="1" data-placement="sous-article-avec-rotation">PGRpdiBpZD0iUU9aRGhQSVMtMTAyNzU2MDA0NCI+PGRpdiBpZD0iNjk1NjktMiI+PHNjcmlwdCBzcmM9Ii8vYWRzLnRoZW1vbmV5dGl6ZXIuY29tL3MvZ2VuLmpzP3R5cGU9MiI+PC9zY3JpcHQ+PHNjcmlwdCBzcmM9Ii8vYWRzLnRoZW1vbmV5dGl6ZXIuY29tL3MvcmVxdWVzdGZvcm0uanM/c2l0ZUlkPTY5NTY5JiMwMzg7Zm9ybWF0SWQ9MiI+PC9zY3JpcHQ+PC9kaXY+CjwvZGl2PjxiciBzdHlsZT0iY2xlYXI6IGJvdGg7IGRpc3BsYXk6IGJsb2NrOyBmbG9hdDogbm9uZTsiLz4=</script>]]></content:encoded>
+					
+					<wfw:commentRss>https://korben.info/steam-reduire-consommation-ram.html/feed</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Edito du 07/11/2020</title>
+		<link>https://korben.info/edito-du-07-11-2020.html</link>
+					<comments>https://korben.info/edito-du-07-11-2020.html#comments</comments>
+		
+		<dc:creator><![CDATA[Korben]]></dc:creator>
+		<pubDate>Sat, 07 Nov 2020 07:13:43 +0000</pubDate>
+				<category><![CDATA[Édito]]></category>
+		<category><![CDATA[édito]]></category>
+		<category><![CDATA[permaculture]]></category>
+		<guid isPermaLink="false">https://korben.info/?p=119805</guid>
+
+					<description><![CDATA[Salut la compagnie, Comment ça va ? De mon côté, comme pour la plupart des gens, il y a des hauts et des bas. Depuis mars, les jours se suivent et se ressemblent et comme en ce moment, on n&#8217;a plus rien à faire de fun dans le monde réel, &#8230; <a href="https://korben.info/edito-du-07-11-2020.html">Suite</a>]]></description>
+										<content:encoded><![CDATA[<p><img width="1000" height="393" src="https://korben.info/app/uploads/2020/11/rosie-kerr-Gz0PxBYPfs8-unsplash.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://korben.info/app/uploads/2020/11/rosie-kerr-Gz0PxBYPfs8-unsplash.jpg 1000w, https://korben.info/app/uploads/2020/11/rosie-kerr-Gz0PxBYPfs8-unsplash-300x118.jpg 300w, https://korben.info/app/uploads/2020/11/rosie-kerr-Gz0PxBYPfs8-unsplash-768x302.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-attachment-id="119806" data-permalink="https://korben.info/edito-du-07-11-2020.html/rosie-kerr-gz0pxbypfs8-unsplash" data-orig-file="https://korben.info/app/uploads/2020/11/rosie-kerr-Gz0PxBYPfs8-unsplash.jpg" data-orig-size="1000,393" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="rosie-kerr-Gz0PxBYPfs8-unsplash" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/rosie-kerr-Gz0PxBYPfs8-unsplash-300x118.jpg" data-large-file="https://korben.info/app/uploads/2020/11/rosie-kerr-Gz0PxBYPfs8-unsplash.jpg"></p>
+<p>Salut la compagnie,</p>
+
+
+
+<p>Comment ça va ?</p>
+
+
+
+<p>De mon côté, comme pour la plupart des gens, il y a des hauts et des bas. Depuis mars, les jours se suivent et se ressemblent et comme en ce moment, on n&rsquo;a plus rien à faire de fun dans le monde réel, et bien je bosse 3 fois plus que d&rsquo;habitude et l&rsquo;épuisement me guette, je l&rsquo;avoue. </p>
+
+
+
+<p>Après je suis clairement privilégié, j&rsquo;en ai conscience : La famille et moi-même en excellente santé, un petit jardin pour respirer un peu, encore du (télé) travail même si je vois la crise économique arriver à grands pas, et des barres de rire <a href="https://twitch.tv/korbenfr">avec les internautes sur Twitch</a> quand je streame.<br>Toutefois, entre les actualités peu réjouissantes qui s&rsquo;imposent à nous, le virus qui remonte, et la vie quotidienne qui tourne en boucle infinie comme si j&rsquo;étais un Bill Murray, le stress bouffe et ma quête de sens se brouille un peu.</p>
+
+
+
+<p>Mais la bonne nouvelle c&rsquo;est que je vais bientôt déménager.  Youpi ! Toujours à côté de Clermont-Ferrand. Le jardin sera plus grand et va me permettre de progresser encore plus sérieusement dans ma permaculture et tout ce qui gravite autour de cette thématique. Les objectifs sont nombreux, mais comme je ne suis pas pressé, c&rsquo;est parfait. Petite reconnexion à la nature (même si techniquement, je reste en périphérie urbaine), plus d&rsquo;activités manuelles, plus d&rsquo;autonomie alimentaire&#8230;etc. Je prévois bien sûr de partager ça avec vous, et comme je débute, ça va être une nouvelle aventure pour moi. En ce moment, je potasse donc le sujet du design de permaculture pour ne pas faire n&rsquo;importe quoi au démarrage.</p>
+
+
+
+<p>Du coup, voilà, 2020 c&rsquo;est pas simple, c&rsquo;est pas fun, mais y&rsquo;a quand même quelques trucs sur lesquels nous pouvons tous agir : Préparer l&rsquo;avenir, acquérir de nouvelles connaissances, se lancer de nouveaux défis et évidemment bosser dur pour les réaliser. Je ne vois pas ce qu&rsquo;on pourrait faire d&rsquo;autre de toute façon (Qui a dit « Netflix and chill » ?).</p>
+
+
+
+<p>Allez, bon week-end à tous !</p>
+<div id="QOZDhPIS-332769581"><hr style="border-bottom: 2px solid #cfd6df;"></hr>
+<article class="post-90949 post type-post status-publish format-standard has-post-thumbnail hentry category-video" itemscope="" itemtype="https://schema.org/Article">
+<header class="entry-header">
+<h1><a style="background: none" href="https://korben.info/kbn_/119719" target="_blank">Le vigile de votre serveur qui recale les mauvaises adresses IP </a></h1>
+</header>
+<div class="entry-content" itemprop="articleBody">
+<p style="margin-top:20px;"><a href="https://korben.info/kbn_/119719" target="_blank"><img loading="lazy" class="overflowing alignnone" src="https://korben.info/app/uploads/2020/11/Screenshot_2020-11-02-CrowdSec-the-next-gen-open-source-crowd-powered-dynamic-firewall.png" alt="" width="600px" height="px"></a></p>
+<p style="margin-top:20px;">
+    <strong>Envie de savoir ce qui transite via votre adresse ip ?<br />
+</strong></p>
+<p> la cybersécurité n’est pas uniquement une problématique de moyens financiers. C’est également une question d’outils défensifs, de périmètre technique, d’accès non filtrés et surtout de course après le temps.</p>
+<p>Il faut donc être capable d’analyser en temps réel ces accès non filtrés, de détecter ceux qui seraient frauduleux</p>
+<p>CrowdSec est un outil 100% open source qui combine 2 idées très connues des administrateurs de serveurs.</p>
+<li>Crowdsec est capable de bannir automatiquement une IP se connectant sur votre serveur, un peu à la manière d’un Fail2ban</li>
+<li>Et il est capable de proposer une base de données de ces IPs à la communauté des utilisateurs CrowdSec, un peu comme le fait AbuseIPDB, afin de faire circuler l’info rapidement et que chacun puisse être protégé à son tour. </li>
+<p>Cela vous permet de détecter tous les types d’attaques et d’y répondre de manière proportionnée</p>
+<div style="font-size: 24px; margin-top:50px;" class="post-categories">
+  <a href="https://korben.info/kbn_/119719" target="_blank" class="">En Savoir + sur Crowdsec et le tester</a>
+</div>
+</p>
+</div>
+<hr style="border-bottom: 2px solid transparent;">
+</article>
+</div><script type="text/plain" data-tcf="waiting-for-consent" data-id="118889" data-bid="1" data-placement="sous-article-avec-rotation">PGRpdiBpZD0iUU9aRGhQSVMtMTg1NDE2Mzk5MCI+PGRpdiBpZD0iNjk1NjktMiI+PHNjcmlwdCBzcmM9Ii8vYWRzLnRoZW1vbmV5dGl6ZXIuY29tL3MvZ2VuLmpzP3R5cGU9MiI+PC9zY3JpcHQ+PHNjcmlwdCBzcmM9Ii8vYWRzLnRoZW1vbmV5dGl6ZXIuY29tL3MvcmVxdWVzdGZvcm0uanM/c2l0ZUlkPTY5NTY5JiMwMzg7Zm9ybWF0SWQ9MiI+PC9zY3JpcHQ+PC9kaXY+CjwvZGl2PjxiciBzdHlsZT0iY2xlYXI6IGJvdGg7IGRpc3BsYXk6IGJsb2NrOyBmbG9hdDogbm9uZTsiLz4=</script>]]></content:encoded>
+					
+					<wfw:commentRss>https://korben.info/edito-du-07-11-2020.html/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Créez votre propre clavier en 3D</title>
+		<link>https://korben.info/creez-clavier-3d.html</link>
+					<comments>https://korben.info/creez-clavier-3d.html#comments</comments>
+		
+		<dc:creator><![CDATA[Korben]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2020 08:00:00 +0000</pubDate>
+				<category><![CDATA[Service web]]></category>
+		<category><![CDATA[3D]]></category>
+		<category><![CDATA[clavier]]></category>
+		<guid isPermaLink="false">https://korben.info/?p=118888</guid>
+
+					<description><![CDATA[La mode, en ce moment, est au clavier entièrement configurable. Et c&#8217;est dans cet esprit que Carson Britt a mis au point un générateur et configurateur de clavier en 3D qui a la particularité d&#8217;être parfaitement fonctionnel. Ce simulateur de clavier baptisé keyboardsimulator.xyz vous permet de choisir le modèle de &#8230; <a href="https://korben.info/creez-clavier-3d.html">Suite</a>]]></description>
+										<content:encoded><![CDATA[<p><img width="2520" height="822" src="https://korben.info/app/uploads/2020/09/index.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://korben.info/app/uploads/2020/09/index.jpg 2520w, https://korben.info/app/uploads/2020/09/index-300x98.jpg 300w, https://korben.info/app/uploads/2020/09/index-1024x334.jpg 1024w, https://korben.info/app/uploads/2020/09/index-768x251.jpg 768w, https://korben.info/app/uploads/2020/09/index-1536x501.jpg 1536w, https://korben.info/app/uploads/2020/09/index-2048x668.jpg 2048w" sizes="(max-width: 2520px) 100vw, 2520px" data-attachment-id="118895" data-permalink="https://korben.info/creez-clavier-3d.html/index-5" data-orig-file="https://korben.info/app/uploads/2020/09/index.jpg" data-orig-size="2520,822" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="index" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/index-300x98.jpg" data-large-file="https://korben.info/app/uploads/2020/09/index-1024x334.jpg"></p>
+<p>La mode, en ce moment, est au clavier entièrement configurable. Et c&rsquo;est dans cet esprit que Carson Britt a mis au point un générateur et configurateur de clavier en 3D qui a la particularité d&rsquo;être parfaitement fonctionnel.</p>
+
+
+
+<p>Ce simulateur de clavier baptisé <a href="https://keyboardsimulator.xyz/"><strong>keyboardsimulator.xyz</strong></a> vous permet de choisir le modèle de clavier, les légendes sur les touches, les couleurs&#8230;etc.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="118892" data-permalink="https://korben.info/creez-clavier-3d.html/korben20200417144706-618-1" data-orig-file="https://korben.info/app/uploads/2020/09/korben20200417144706-618-1-scaled.jpg" data-orig-size="2560,1373" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-618-1" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/korben20200417144706-618-1-300x161.jpg" data-large-file="https://korben.info/app/uploads/2020/09/korben20200417144706-618-1-1024x549.jpg" loading="lazy" width="1024" height="549" src="https://korben.info/app/uploads/2020/09/korben20200417144706-618-1-1024x549.jpg" alt="" class="wp-image-118892" srcset="https://korben.info/app/uploads/2020/09/korben20200417144706-618-1-1024x549.jpg 1024w, https://korben.info/app/uploads/2020/09/korben20200417144706-618-1-300x161.jpg 300w, https://korben.info/app/uploads/2020/09/korben20200417144706-618-1-768x412.jpg 768w, https://korben.info/app/uploads/2020/09/korben20200417144706-618-1-1536x824.jpg 1536w, https://korben.info/app/uploads/2020/09/korben20200417144706-618-1-2048x1099.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>On peut tout configurer, mais bizarre pas l&rsquo;arrangement des touches. Ce sera donc QWERTY ou crève.</p>
+
+
+
+<p>Ce qui est amusant c&rsquo;est que vous pouvez ensuite tester votre clavier, y compris mesurer votre vitesse de frappe sur celui-ci.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="118894" data-permalink="https://korben.info/creez-clavier-3d.html/clavier-moche-1" data-orig-file="https://korben.info/app/uploads/2020/09/clavier-moche-1-scaled.jpg" data-orig-size="2560,1466" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="clavier-moche-1" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/clavier-moche-1-300x172.jpg" data-large-file="https://korben.info/app/uploads/2020/09/clavier-moche-1-1024x586.jpg" loading="lazy" width="1024" height="586" src="https://korben.info/app/uploads/2020/09/clavier-moche-1-1024x586.jpg" alt="" class="wp-image-118894" srcset="https://korben.info/app/uploads/2020/09/clavier-moche-1-1024x586.jpg 1024w, https://korben.info/app/uploads/2020/09/clavier-moche-1-300x172.jpg 300w, https://korben.info/app/uploads/2020/09/clavier-moche-1-768x440.jpg 768w, https://korben.info/app/uploads/2020/09/clavier-moche-1-1536x880.jpg 1536w, https://korben.info/app/uploads/2020/09/clavier-moche-1-2048x1173.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>Une fois votre créativité totalement libérée, vous pourrez partager le lien vers votre clavier 3D ou en faire une jolie image PNG sur fond transparent.</p>
+
+
+
+<p>Keyboard Simulator n&rsquo;est pas un concept qui changera la face du monde, c&rsquo;est certain, mais ça vous amusera 5 minutes, ce qui est déjà pas mal.</p>
+<div id="QOZDhPIS-950462491"><hr style="border-bottom: 2px solid #cfd6df;"></hr>
+<article class="post-90949 post type-post status-publish format-standard has-post-thumbnail hentry category-video" itemscope="" itemtype="https://schema.org/Article">
+<header class="entry-header">
+<h1><a style="background: none" href="https://korben.info/kbn_/119719" target="_blank">Le vigile de votre serveur qui recale les mauvaises adresses IP </a></h1>
+</header>
+<div class="entry-content" itemprop="articleBody">
+<p style="margin-top:20px;"><a href="https://korben.info/kbn_/119719" target="_blank"><img loading="lazy" class="overflowing alignnone" src="https://korben.info/app/uploads/2020/11/Screenshot_2020-11-02-CrowdSec-the-next-gen-open-source-crowd-powered-dynamic-firewall.png" alt="" width="600px" height="px"></a></p>
+<p style="margin-top:20px;">
+    <strong>Envie de savoir ce qui transite via votre adresse ip ?<br />
+</strong></p>
+<p> la cybersécurité n’est pas uniquement une problématique de moyens financiers. C’est également une question d’outils défensifs, de périmètre technique, d’accès non filtrés et surtout de course après le temps.</p>
+<p>Il faut donc être capable d’analyser en temps réel ces accès non filtrés, de détecter ceux qui seraient frauduleux</p>
+<p>CrowdSec est un outil 100% open source qui combine 2 idées très connues des administrateurs de serveurs.</p>
+<li>Crowdsec est capable de bannir automatiquement une IP se connectant sur votre serveur, un peu à la manière d’un Fail2ban</li>
+<li>Et il est capable de proposer une base de données de ces IPs à la communauté des utilisateurs CrowdSec, un peu comme le fait AbuseIPDB, afin de faire circuler l’info rapidement et que chacun puisse être protégé à son tour. </li>
+<p>Cela vous permet de détecter tous les types d’attaques et d’y répondre de manière proportionnée</p>
+<div style="font-size: 24px; margin-top:50px;" class="post-categories">
+  <a href="https://korben.info/kbn_/119719" target="_blank" class="">En Savoir + sur Crowdsec et le tester</a>
+</div>
+</p>
+</div>
+<hr style="border-bottom: 2px solid transparent;">
+</article>
+</div><script type="text/plain" data-tcf="waiting-for-consent" data-id="118889" data-bid="1" data-placement="sous-article-avec-rotation">PGRpdiBpZD0iUU9aRGhQSVMtMTEzMjY0NTIxMSI+PGRpdiBpZD0iNjk1NjktMiI+PHNjcmlwdCBzcmM9Ii8vYWRzLnRoZW1vbmV5dGl6ZXIuY29tL3MvZ2VuLmpzP3R5cGU9MiI+PC9zY3JpcHQ+PHNjcmlwdCBzcmM9Ii8vYWRzLnRoZW1vbmV5dGl6ZXIuY29tL3MvcmVxdWVzdGZvcm0uanM/c2l0ZUlkPTY5NTY5JiMwMzg7Zm9ybWF0SWQ9MiI+PC9zY3JpcHQ+PC9kaXY+CjwvZGl2PjxiciBzdHlsZT0iY2xlYXI6IGJvdGg7IGRpc3BsYXk6IGJsb2NrOyBmbG9hdDogbm9uZTsiLz4=</script>]]></content:encoded>
+					
+					<wfw:commentRss>https://korben.info/creez-clavier-3d.html/feed</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ox Editor &#8211; Un éditeur de code dans le terminal</title>
+		<link>https://korben.info/ox-editor-editeur-code-terminal.html</link>
+					<comments>https://korben.info/ox-editor-editeur-code-terminal.html#comments</comments>
+		
+		<dc:creator><![CDATA[Korben]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 08:23:55 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Linuxiens]]></category>
+		<category><![CDATA[MacOS]]></category>
+		<category><![CDATA[éditeur code]]></category>
+		<category><![CDATA[IDE terminal]]></category>
+		<category><![CDATA[ox editor]]></category>
+		<guid isPermaLink="false">https://korben.info/?p=119768</guid>
+
+					<description><![CDATA[Si vous êtes sous Linux, macOS ou Windows WSL (donc Linux) et que vous cherchez éditeur de code à utiliser dans un terminal qui dépote, j&#8217;ai sûrement ce qu&#8217;il vous faut. Il s&#8217;agit de Ox Editor, un IDE développé en Rust qui permet d&#8217;accompagner les développeurs dans l&#8217;expression de leur &#8230; <a href="https://korben.info/ox-editor-editeur-code-terminal.html">Suite</a>]]></description>
+										<content:encoded><![CDATA[<p><img width="930" height="295" src="https://korben.info/app/uploads/2020/11/oxEditor.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://korben.info/app/uploads/2020/11/oxEditor.jpg 930w, https://korben.info/app/uploads/2020/11/oxEditor-300x95.jpg 300w, https://korben.info/app/uploads/2020/11/oxEditor-768x244.jpg 768w" sizes="(max-width: 930px) 100vw, 930px" data-attachment-id="119772" data-permalink="https://korben.info/ox-editor-editeur-code-terminal.html/oxeditor" data-orig-file="https://korben.info/app/uploads/2020/11/oxEditor.jpg" data-orig-size="930,295" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="oxEditor" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/oxEditor-300x95.jpg" data-large-file="https://korben.info/app/uploads/2020/11/oxEditor.jpg"></p>
+<p>Si vous êtes sous Linux, macOS ou Windows WSL (donc Linux) et que vous cherchez éditeur de code à utiliser dans un terminal qui dépote, j&rsquo;ai sûrement ce qu&rsquo;il vous faut.</p>
+
+
+
+<p>Il s&rsquo;agit de <strong><a href="https://github.com/curlpipe/ox">Ox Editor</a></strong>, un IDE développé en Rust qui permet d&rsquo;accompagner les développeurs dans l&rsquo;expression de leur labeur, à l&rsquo;aide de fonctionnalités bien pensées pour leur simplifier la vie.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="119773" data-permalink="https://korben.info/ox-editor-editeur-code-terminal.html/68747470733a2f2f692e706f7374696d672e63632f4b6351306e7631592f696d6167652e706e67" data-orig-file="https://korben.info/app/uploads/2020/11/68747470733a2f2f692e706f7374696d672e63632f4b6351306e7631592f696d6167652e706e67.png" data-orig-size="714,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="68747470733a2f2f692e706f7374696d672e63632f4b6351306e7631592f696d6167652e706e67" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/68747470733a2f2f692e706f7374696d672e63632f4b6351306e7631592f696d6167652e706e67-268x300.png" data-large-file="https://korben.info/app/uploads/2020/11/68747470733a2f2f692e706f7374696d672e63632f4b6351306e7631592f696d6167652e706e67.png" loading="lazy" width="714" height="800" src="https://korben.info/app/uploads/2020/11/68747470733a2f2f692e706f7374696d672e63632f4b6351306e7631592f696d6167652e706e67.png" alt="" class="wp-image-119773" srcset="https://korben.info/app/uploads/2020/11/68747470733a2f2f692e706f7374696d672e63632f4b6351306e7631592f696d6167652e706e67.png 714w, https://korben.info/app/uploads/2020/11/68747470733a2f2f692e706f7374696d672e63632f4b6351306e7631592f696d6167652e706e67-268x300.png 268w" sizes="(max-width: 714px) 100vw, 714px" /></figure></div>
+
+
+
+<p>Ox reprend les caractéristiques que nous aimons tous de certains éditeurs bien connus comme Vim ou Nano. Voici ce qu&rsquo;explique son développeur sur sa page : </p>
+
+
+
+<blockquote class="wp-block-quote"><p><a href="http://vim.org">Vim</a> : Vim fournit un système de plugin pour y ajouter des fonctionnalités, car il est très minimal et ne fournit que des outils d&rsquo;édition de texte de base par défaut. Il est très complet et possède son propre langage de programmation pour la configuration et l&rsquo;écriture de plugins. Il a une courbe d&rsquo;apprentissage rapide, car il est un éditeur de texte « modal », ayant des modes spéciaux pour l&rsquo;édition de texte. Ox est plus facile à utiliser que Vim parce qu&rsquo;il ne possède pas de modes où le clavier est réorienté, mais il reprend l&rsquo;idée d&rsquo;être un éditeur uniquement basé sur le clavier et de pouvoir agir comme un IDE après une certaine configuration.</p><p><a href="https://www.nano-editor.org/">Nano</a> : Nano est un éditeur très simple à appréhender grâce à ses raccourcis clavier intuitifs tels que Ctrl+S pour sauvegarder et Ctrl+ ? pour le menu d&rsquo;aide, etc. Ox a pris l&rsquo;idée des raccourcis clavier de cet éditeur, ils sont simples à retenir, Ctrl+F pour « Find », Ctrl+Q pour « Quit », ce qui signifie que Ox n&rsquo;a pas une courbe d&rsquo;apprentissage aussi dure.</p><p><a href="https://micro-editor.github.io/">Micro</a> : Micro a un système de plugin qui est programmé avec un langage appelé Lua, cependant je ne peux pas trouver de plugin à jour pour ce système et il manque des fonctionnalités telles qu&rsquo;un arbre de fichiers. C&rsquo;est Micro qui m&rsquo;a inspiré l&rsquo;idée d&rsquo;ajouter une fonctionnalité de souris et d&rsquo;autres caractéristiques.</p><p><a href="https://www.gnu.org/software/emacs/">Emacs</a> : Emacs est toujours activement utilisé aujourd&rsquo;hui en raison de sa liberté de modifier et de changer le code source. Ox a pris l&rsquo;idée de la personnalisation et de l&rsquo;extensibilité d&rsquo;Emacs et a créé un système de configuration où vous pouvez changer les couleurs et l&rsquo;apparence de l&rsquo;éditeur.</p><p><a href="https://xi-editor.io/">Xi</a> : Xi est également écrit en Rust mais est purement un backend pour le moment, j&rsquo;ai décidé de faire d&rsquo;Ox à la fois un frontend et un backend, car Xi a de nombreux frontends, mais la plupart d&rsquo;entre eux sont cassés et il manque beaucoup de fonctionnalités.</p><p><a href="https://github.com/rhysd/kiro-editor">Kiro</a> : Kiro est un éditeur de texte étonnant écrit en Rust et qui ajoute des fonctionnalités telles que le support Unicode, une meilleure palette de couleurs et des petites choses comme le redimensionnement. Ox a repris les idées d&rsquo;amélioration de Kiro, mais les a mises en œuvre différemment. Le code source de Kiro semble également être assez avancé dans certains domaines, j&rsquo;ai donc décidé de garder Ox aussi simple que possible.</p><cite>https://github.com/curlpipe/ox</cite></blockquote>
+
+
+
+<p>Pour installer Ox Editor, vous aurez besoin de Cargo (Rust oblige). Lancez ensuite la commande suivante sous Linux : </p>
+
+
+
+<pre class="wp-block-preformatted">cargo install --git https://github.com/curlpipe/ox</pre>
+
+
+
+<p>Pour les gens qui ont la chance d&rsquo;être équipés d&rsquo;un Mac, vous pouvez utiliser brew : </p>
+
+
+
+<pre class="wp-block-preformatted">brew install ox</pre>
+
+
+
+<p>Ensuite pour lancer la bête, tapez simple « ox » dans votre terminal. Vous pouvez faire suivre la commande d&rsquo;un chemin vers le fichier que vous voulez ouvrir : </p>
+
+
+
+<pre class="wp-block-preformatted">ox /chemin/vers/fichier</pre>
+
+
+
+<p>Après au niveau des commandes, vous pouvez utiliser : </p>
+
+
+
+<pre class="wp-block-code"><code>PageUp - Aller au début du document
+PageDown - Aller au bas du document
+Home (Début) - Aller au début de la ligne actuelle
+End (Fin) - Aller à la fin de la ligne actuelle</code></pre>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="119769" data-permalink="https://korben.info/ox-editor-editeur-code-terminal.html/korben20200417144706-854" data-orig-file="https://korben.info/app/uploads/2020/11/korben20200417144706-854.jpg" data-orig-size="1940,1196" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-854" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/korben20200417144706-854-300x185.jpg" data-large-file="https://korben.info/app/uploads/2020/11/korben20200417144706-854-1024x631.jpg" loading="lazy" width="1024" height="631" src="https://korben.info/app/uploads/2020/11/korben20200417144706-854-1024x631.jpg" alt="" class="wp-image-119769" srcset="https://korben.info/app/uploads/2020/11/korben20200417144706-854-1024x631.jpg 1024w, https://korben.info/app/uploads/2020/11/korben20200417144706-854-300x185.jpg 300w, https://korben.info/app/uploads/2020/11/korben20200417144706-854-768x473.jpg 768w, https://korben.info/app/uploads/2020/11/korben20200417144706-854-1536x947.jpg 1536w, https://korben.info/app/uploads/2020/11/korben20200417144706-854.jpg 1940w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>Ensuite vous pouvez écrire votre code ou votre texte. Il y a bien sûr quelques raccourcis clavier à connaître, que je vous livre maintenant sans plus tarder : </p>
+
+
+
+<ul><li><strong>Ctrl + Q</strong> &#8211; Quitte l&rsquo;onglet en cours ou l&rsquo;éditeur si un seul onglet est ouvert.</li><li><strong>Ctrl + S</strong> &#8211; Enregistre le fichier ouvert sur le disque.</li><li><strong>Ctrl + W</strong> &#8211; Vous demande un nom de fichier et l&rsquo;enregistre sur le disque sous ce nom de fichier.</li><li><strong>Ctrl + P</strong> &#8211; Enregistre tous les fichiers actuellement ouverts sur le disque.</li><li><strong>Ctrl + N</strong> &#8211; Crée un nouvel onglet avec un document vierge.</li><li><strong>Ctrl + O</strong> &#8211; Vous demande un fichier et ouvre ce fichier dans un nouvel onglet.</li><li><strong>Ctrl + F</strong> &#8211; Recherche dans le document n&rsquo;importe quelle chaîne de caractère. Vous pouvez appuyer sur ↑ et ← pour déplacer le curseur sur l&rsquo;occurrence précédente de la requête et sur ↓ et → pour passer à l&rsquo;occurrence suivante de la requête. Appuyez sur « Entrée » pour annuler la recherche à la position actuelle du curseur ou sur « Echap » pour annuler la recherche et revenir à l&#8217;emplacement initial du curseur. Note : cela vous permet d&rsquo;utiliser des <strong>expressions régulières</strong>.</li><li><strong>Ctrl + U</strong> &#8211; Annule votre dernière action. Les modifications sont enregistrées dans la pile d&rsquo;annulations chaque fois que vous appuyez sur la barre d&rsquo;espacement, que vous créez / détruisez une nouvelle ligne et lorsqu&rsquo;il n&rsquo;y a plus d&rsquo;activité après un certain temps, ce qui peut être utilisé pour capturer des points où vous faites une pause pour réfléchir ou prendre un café etc…</li><li><strong>Ctrl + Y</strong> &#8211; Refait votre dernière action. Les modifications sont enregistrées dans la pile d&rsquo;annulations chaque fois que vous appuyez sur la barre d&rsquo;espacement, créez / détruisez une nouvelle ligne et lorsqu&rsquo;il n&rsquo;y a pas d&rsquo;activité après un certain temps qui peut être utilisé pour capturer des points où vous faites une pause pour réfléchir ou prendre un café etc…</li><li><strong>Ctrl + R</strong> &#8211; Permet de remplacer des occurrences dans le document. Utilise les mêmes raccourcis clavier que la fonction de recherche : ↑ et ← pour déplacer le curseur sur l&rsquo;occurrence précédente de la requête et ↓ et → pour passer à l&rsquo;occurrence suivante de la requête. <br>Vous pouvez également appuyer sur « Entrée », y ou « Espace » pour effectuer l&rsquo;action de remplacement. Pour quitter le mode de remplacement une fois que vous avez terminé, vous pouvez appuyer sur « Echap » pour annuler et revenir à la position initiale du curseur. Note : cela vous permet d&rsquo;utiliser des expressions régulières.</li><li><strong>Ctrl + A</strong> &#8211; Exécute une option de remplacement par lots. Il vous demandera une cible à remplacer et ce par quoi vous voulez la remplacer et remplacera ensuite chaque occurrence du document. <br>Note : cela vous permet d&rsquo;utiliser des expressions régulières.</li><li><strong>Ctrl + D</strong> &#8211; Permet de passer à l&rsquo;onglet précédent.</li><li><strong>Ctrl + H</strong> &#8211; Permet de passer à l&rsquo;onglet suivant.</li></ul>
+
+
+
+<p>Fastoche non ?</p>
+
+
+
+<p>Et évidemment, Ox est personnalisable, il suffit d&rsquo;aller gratter dans son fichier de conf : </p>
+
+
+
+<p><code>~/.config/ox/ox.ron</code>.<br>ou là<br><code>$XDG_CONFIG_HOME/ox/ox.ron</code></p>
+<div id="QOZDhPIS-1472461094"><hr style="border-bottom: 2px solid #cfd6df;"></hr>
+<article class="post-90949 post type-post status-publish format-standard has-post-thumbnail hentry category-video" itemscope="" itemtype="https://schema.org/Article">
+<header class="entry-header">
+<h1><a style="background: none" href="https://korben.info/kbn_/119719" target="_blank">Le vigile de votre serveur qui recale les mauvaises adresses IP </a></h1>
+</header>
+<div class="entry-content" itemprop="articleBody">
+<p style="margin-top:20px;"><a href="https://korben.info/kbn_/119719" target="_blank"><img loading="lazy" class="overflowing alignnone" src="https://korben.info/app/uploads/2020/11/Screenshot_2020-11-02-CrowdSec-the-next-gen-open-source-crowd-powered-dynamic-firewall.png" alt="" width="600px" height="px"></a></p>
+<p style="margin-top:20px;">
+    <strong>Envie de savoir ce qui transite via votre adresse ip ?<br />
+</strong></p>
+<p> la cybersécurité n’est pas uniquement une problématique de moyens financiers. C’est également une question d’outils défensifs, de périmètre technique, d’accès non filtrés et surtout de course après le temps.</p>
+<p>Il faut donc être capable d’analyser en temps réel ces accès non filtrés, de détecter ceux qui seraient frauduleux</p>
+<p>CrowdSec est un outil 100% open source qui combine 2 idées très connues des administrateurs de serveurs.</p>
+<li>Crowdsec est capable de bannir automatiquement une IP se connectant sur votre serveur, un peu à la manière d’un Fail2ban</li>
+<li>Et il est capable de proposer une base de données de ces IPs à la communauté des utilisateurs CrowdSec, un peu comme le fait AbuseIPDB, afin de faire circuler l’info rapidement et que chacun puisse être protégé à son tour. </li>
+<p>Cela vous permet de détecter tous les types d’attaques et d’y répondre de manière proportionnée</p>
+<div style="font-size: 24px; margin-top:50px;" class="post-categories">
+  <a href="https://korben.info/kbn_/119719" target="_blank" class="">En Savoir + sur Crowdsec et le tester</a>
+</div>
+</p>
+</div>
+<hr style="border-bottom: 2px solid transparent;">
+</article>
+</div><script type="text/plain" data-tcf="waiting-for-consent" data-id="118889" data-bid="1" data-placement="sous-article-avec-rotation">PGRpdiBpZD0iUU9aRGhQSVMtNjU1MTY3ODEwIj48ZGl2IGlkPSI2OTU2OS0yIj48c2NyaXB0IHNyYz0iLy9hZHMudGhlbW9uZXl0aXplci5jb20vcy9nZW4uanM/dHlwZT0yIj48L3NjcmlwdD48c2NyaXB0IHNyYz0iLy9hZHMudGhlbW9uZXl0aXplci5jb20vcy9yZXF1ZXN0Zm9ybS5qcz9zaXRlSWQ9Njk1NjkmIzAzODtmb3JtYXRJZD0yIj48L3NjcmlwdD48L2Rpdj4KPC9kaXY+PGJyIHN0eWxlPSJjbGVhcjogYm90aDsgZGlzcGxheTogYmxvY2s7IGZsb2F0OiBub25lOyIvPg==</script>]]></content:encoded>
+					
+					<wfw:commentRss>https://korben.info/ox-editor-editeur-code-terminal.html/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quill &#8211; L&#8217;éditeur WYSIWYG du futur</title>
+		<link>https://korben.info/quill-editeur-wysiwyg-futur.html</link>
+					<comments>https://korben.info/quill-editeur-wysiwyg-futur.html#comments</comments>
+		
+		<dc:creator><![CDATA[Korben]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 08:00:00 +0000</pubDate>
+				<category><![CDATA[Développement]]></category>
+		<category><![CDATA[Développeurs]]></category>
+		<category><![CDATA[éditeur]]></category>
+		<category><![CDATA[éditeur web WYSIWYG]]></category>
+		<guid isPermaLink="false">https://korben.info/?p=118869</guid>
+
+					<description><![CDATA[Si pour votre projet web, vous cherchez un éditeur de texte WYSIWYG qui soit compatible avec tous les navigateurs du marché (desktop et mobile), qui soit entièrement paramétrable et qu&#8217;on puisse étendre avec des modules spécifiques (coloration syntaxique, historique&#8230;etc.), j&#8217;ai ce qu&#8217;il vous faut. Ça s&#8217;appelle Quill et c&#8217;est un &#8230; <a href="https://korben.info/quill-editeur-wysiwyg-futur.html">Suite</a>]]></description>
+										<content:encoded><![CDATA[<p><img width="2317" height="685" src="https://korben.info/app/uploads/2020/09/korben20200417144706-617.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://korben.info/app/uploads/2020/09/korben20200417144706-617.jpg 2317w, https://korben.info/app/uploads/2020/09/korben20200417144706-617-300x89.jpg 300w, https://korben.info/app/uploads/2020/09/korben20200417144706-617-1024x303.jpg 1024w, https://korben.info/app/uploads/2020/09/korben20200417144706-617-768x227.jpg 768w, https://korben.info/app/uploads/2020/09/korben20200417144706-617-1536x454.jpg 1536w, https://korben.info/app/uploads/2020/09/korben20200417144706-617-2048x605.jpg 2048w" sizes="(max-width: 2317px) 100vw, 2317px" data-attachment-id="118885" data-permalink="https://korben.info/quill-editeur-wysiwyg-futur.html/korben20200417144706-617" data-orig-file="https://korben.info/app/uploads/2020/09/korben20200417144706-617.jpg" data-orig-size="2317,685" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706 617" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/korben20200417144706-617-300x89.jpg" data-large-file="https://korben.info/app/uploads/2020/09/korben20200417144706-617-1024x303.jpg"></p>
+<p>Si pour votre projet web, vous cherchez un éditeur de texte WYSIWYG qui soit compatible avec tous les navigateurs du marché (desktop et mobile), qui soit entièrement paramétrable et qu&rsquo;on puisse étendre avec des modules spécifiques (coloration syntaxique, historique&#8230;etc.), j&rsquo;ai ce qu&rsquo;il vous faut.</p>
+
+
+
+<p>Ça s&rsquo;appelle <a href="https://quilljs.com/"><strong>Quill</strong></a> et c&rsquo;est un projet libre développé entièrement en JavaScript qui permet d&rsquo;implémenter rapidement ce genre d&rsquo;éditeur de texte riche, 100% personnalisable et <strong>disposant d&rsquo;une API</strong>.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="118883" data-permalink="https://korben.info/quill-editeur-wysiwyg-futur.html/korben20200417144706-616" data-orig-file="https://korben.info/app/uploads/2020/09/korben20200417144706-616-scaled.jpg" data-orig-size="2560,1709" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-616" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/korben20200417144706-616-300x200.jpg" data-large-file="https://korben.info/app/uploads/2020/09/korben20200417144706-616-1024x684.jpg" loading="lazy" width="1024" height="684" src="https://korben.info/app/uploads/2020/09/korben20200417144706-616-1024x684.jpg" alt="" class="wp-image-118883" srcset="https://korben.info/app/uploads/2020/09/korben20200417144706-616-1024x684.jpg 1024w, https://korben.info/app/uploads/2020/09/korben20200417144706-616-300x200.jpg 300w, https://korben.info/app/uploads/2020/09/korben20200417144706-616-768x513.jpg 768w, https://korben.info/app/uploads/2020/09/korben20200417144706-616-1536x1026.jpg 1536w, https://korben.info/app/uploads/2020/09/korben20200417144706-616-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>Quill permet non seulement de disposer de tout ce qu&rsquo;il faut en termes de formatage de texte (gras, italique, insertion d&rsquo;images, passage en code HTML&#8230;etc.) mais également la possibilité d&rsquo;une sauvegarde automatique, une compatibilité avec les formulaires, une hauteur d&rsquo;éditeur adaptable à la longueur du texte, la possibilité d&rsquo;ajouter des polices et des class / style personnalisés.</p>
+
+
+
+<p>Pour installer cet éditeur, vous pouvez télécharger l&rsquo;archive ici, l&rsquo;installer sous forme de dépendance NPM comme ceci : </p>
+
+
+
+<pre class="wp-block-preformatted">npm install quill@1.3.6</pre>
+
+
+
+<p>Ou pour ceux qui n&rsquo;ont pas peur de ralentir un peu leurs pages web, vous pouvez opter pour la version hébergée sur leurs CDN. Donc insérez ce code directement dans vos pages (prenez ce que vous voulez, à savoir Quill avec ou sans Thèmes et avec ou sans modules) :</p>
+
+
+
+<pre class="wp-block-code"><code>&lt;!-- Main Quill library -->
+&lt;script src="//cdn.quilljs.com/1.3.6/quill.js">&lt;/script>
+&lt;script src="//cdn.quilljs.com/1.3.6/quill.min.js">&lt;/script>
+
+&lt;!-- Theme included stylesheets -->
+&lt;link href="//cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+&lt;link href="//cdn.quilljs.com/1.3.6/quill.bubble.css" rel="stylesheet">
+
+&lt;!-- Core build with no theme, formatting, non-essential modules -->
+&lt;link href="//cdn.quilljs.com/1.3.6/quill.core.css" rel="stylesheet">
+&lt;script src="//cdn.quilljs.com/1.3.6/quill.core.js">&lt;/script>
+</code></pre>
+
+
+
+<p>Merci Geeks de France pour l&rsquo;info.</p>
+<div id="QOZDhPIS-1321495938"><hr style="border-bottom: 2px solid #cfd6df;"></hr>
+<article class="post-90949 post type-post status-publish format-standard has-post-thumbnail hentry category-video" itemscope="" itemtype="https://schema.org/Article">
+<header class="entry-header">
+<h1><a style="background: none" href="https://korben.info/kbn_/119719" target="_blank">Le vigile de votre serveur qui recale les mauvaises adresses IP </a></h1>
+</header>
+<div class="entry-content" itemprop="articleBody">
+<p style="margin-top:20px;"><a href="https://korben.info/kbn_/119719" target="_blank"><img loading="lazy" class="overflowing alignnone" src="https://korben.info/app/uploads/2020/11/Screenshot_2020-11-02-CrowdSec-the-next-gen-open-source-crowd-powered-dynamic-firewall.png" alt="" width="600px" height="px"></a></p>
+<p style="margin-top:20px;">
+    <strong>Envie de savoir ce qui transite via votre adresse ip ?<br />
+</strong></p>
+<p> la cybersécurité n’est pas uniquement une problématique de moyens financiers. C’est également une question d’outils défensifs, de périmètre technique, d’accès non filtrés et surtout de course après le temps.</p>
+<p>Il faut donc être capable d’analyser en temps réel ces accès non filtrés, de détecter ceux qui seraient frauduleux</p>
+<p>CrowdSec est un outil 100% open source qui combine 2 idées très connues des administrateurs de serveurs.</p>
+<li>Crowdsec est capable de bannir automatiquement une IP se connectant sur votre serveur, un peu à la manière d’un Fail2ban</li>
+<li>Et il est capable de proposer une base de données de ces IPs à la communauté des utilisateurs CrowdSec, un peu comme le fait AbuseIPDB, afin de faire circuler l’info rapidement et que chacun puisse être protégé à son tour. </li>
+<p>Cela vous permet de détecter tous les types d’attaques et d’y répondre de manière proportionnée</p>
+<div style="font-size: 24px; margin-top:50px;" class="post-categories">
+  <a href="https://korben.info/kbn_/119719" target="_blank" class="">En Savoir + sur Crowdsec et le tester</a>
+</div>
+</p>
+</div>
+<hr style="border-bottom: 2px solid transparent;">
+</article>
+</div><script type="text/plain" data-tcf="waiting-for-consent" data-id="118889" data-bid="1" data-placement="sous-article-avec-rotation">PGRpdiBpZD0iUU9aRGhQSVMtODY0ODI0MzM5Ij48ZGl2IGlkPSI2OTU2OS0yIj48c2NyaXB0IHNyYz0iLy9hZHMudGhlbW9uZXl0aXplci5jb20vcy9nZW4uanM/dHlwZT0yIj48L3NjcmlwdD48c2NyaXB0IHNyYz0iLy9hZHMudGhlbW9uZXl0aXplci5jb20vcy9yZXF1ZXN0Zm9ybS5qcz9zaXRlSWQ9Njk1NjkmIzAzODtmb3JtYXRJZD0yIj48L3NjcmlwdD48L2Rpdj4KPC9kaXY+PGJyIHN0eWxlPSJjbGVhcjogYm90aDsgZGlzcGxheTogYmxvY2s7IGZsb2F0OiBub25lOyIvPg==</script>]]></content:encoded>
+					
+					<wfw:commentRss>https://korben.info/quill-editeur-wysiwyg-futur.html/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Comment alléger le chargement de vos onglets Microsoft Edge ?</title>
+		<link>https://korben.info/comment-alleger-chargement-onglets-microsoft-edge.html</link>
+					<comments>https://korben.info/comment-alleger-chargement-onglets-microsoft-edge.html#respond</comments>
+		
+		<dc:creator><![CDATA[Korben]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2020 08:00:00 +0000</pubDate>
+				<category><![CDATA[Navigateurs]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[microsoft edge]]></category>
+		<category><![CDATA[optimiser windows]]></category>
+		<guid isPermaLink="false">https://korben.info/?p=118857</guid>
+
+					<description><![CDATA[Si vous utilisez Microsoft Edge comme navigateur, vous avez sans doute remarqué qu&#8217;il y avait tout un tas de contenu merdique au lancement d&#8217;un nouvel onglet. C&#8217;est notamment de l&#8217;actualité bien déprimante, des résultats de sport dont tout le monde se contrefout et la météo qui tombe juste une fois &#8230; <a href="https://korben.info/comment-alleger-chargement-onglets-microsoft-edge.html">Suite</a>]]></description>
+										<content:encoded><![CDATA[<p><img width="2436" height="720" src="https://korben.info/app/uploads/2020/09/korben20200417144706-7.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://korben.info/app/uploads/2020/09/korben20200417144706-7.jpg 2436w, https://korben.info/app/uploads/2020/09/korben20200417144706-7-300x89.jpg 300w, https://korben.info/app/uploads/2020/09/korben20200417144706-7-1024x303.jpg 1024w, https://korben.info/app/uploads/2020/09/korben20200417144706-7-768x227.jpg 768w, https://korben.info/app/uploads/2020/09/korben20200417144706-7-1536x454.jpg 1536w, https://korben.info/app/uploads/2020/09/korben20200417144706-7-2048x605.jpg 2048w" sizes="(max-width: 2436px) 100vw, 2436px" data-attachment-id="118866" data-permalink="https://korben.info/comment-alleger-chargement-onglets-microsoft-edge.html/korben20200417144706-7-4" data-orig-file="https://korben.info/app/uploads/2020/09/korben20200417144706-7.jpg" data-orig-size="2436,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-7" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/korben20200417144706-7-300x89.jpg" data-large-file="https://korben.info/app/uploads/2020/09/korben20200417144706-7-1024x303.jpg"></p>
+<p>Si vous utilisez <strong><a href="https://korben.info/enfin-une-bonne-raison-de-surfer-avec-microsoft-edge.html">Microsoft Edge</a></strong> comme navigateur, vous avez sans doute remarqué qu&rsquo;il y avait tout un tas de contenu merdique au lancement d&rsquo;un nouvel onglet.</p>
+
+
+
+<p>C&rsquo;est notamment de l&rsquo;actualité bien déprimante, des résultats de sport dont tout le monde se contrefout et la météo qui tombe juste une fois sur trois.</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="118861" data-permalink="https://korben.info/comment-alleger-chargement-onglets-microsoft-edge.html/korben20200417144706-607-2" data-orig-file="https://korben.info/app/uploads/2020/09/korben20200417144706-607-2-scaled.jpg" data-orig-size="2560,2036" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="korben20200417144706-607-2" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/korben20200417144706-607-2-300x239.jpg" data-large-file="https://korben.info/app/uploads/2020/09/korben20200417144706-607-2-1024x814.jpg" loading="lazy" width="1024" height="814" src="https://korben.info/app/uploads/2020/09/korben20200417144706-607-2-1024x814.jpg" alt="" class="wp-image-118861" srcset="https://korben.info/app/uploads/2020/09/korben20200417144706-607-2-1024x814.jpg 1024w, https://korben.info/app/uploads/2020/09/korben20200417144706-607-2-300x239.jpg 300w, https://korben.info/app/uploads/2020/09/korben20200417144706-607-2-768x611.jpg 768w, https://korben.info/app/uploads/2020/09/korben20200417144706-607-2-1536x1221.jpg 1536w, https://korben.info/app/uploads/2020/09/korben20200417144706-607-2-2048x1629.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Bref, tout cela encombre votre délicate petite bande passante. Heureusement, il est possible de désactiver ça en cliquant sur la petite roue en haut à droite.</p>
+
+
+
+<p>À vous ensuite de choisir un paramétrage qui vous plaît, à savoir le mode minimaliste, artistique, informatif et surtout personnalisé qui vous permettra de choisir plus finement les options d&rsquo;affichage de votre onglet.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="118862" data-permalink="https://korben.info/comment-alleger-chargement-onglets-microsoft-edge.html/korben20200417144706-609" data-orig-file="https://korben.info/app/uploads/2020/09/korben20200417144706-609-scaled.jpg" data-orig-size="2560,2036" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-609" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/korben20200417144706-609-300x239.jpg" data-large-file="https://korben.info/app/uploads/2020/09/korben20200417144706-609-1024x814.jpg" loading="lazy" width="1024" height="814" src="https://korben.info/app/uploads/2020/09/korben20200417144706-609-1024x814.jpg" alt="" class="wp-image-118862" srcset="https://korben.info/app/uploads/2020/09/korben20200417144706-609-1024x814.jpg 1024w, https://korben.info/app/uploads/2020/09/korben20200417144706-609-300x239.jpg 300w, https://korben.info/app/uploads/2020/09/korben20200417144706-609-768x611.jpg 768w, https://korben.info/app/uploads/2020/09/korben20200417144706-609-1536x1221.jpg 1536w, https://korben.info/app/uploads/2020/09/korben20200417144706-609-2048x1629.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>Voici ce que j&rsquo;ai choisi :</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img data-attachment-id="118863" data-permalink="https://korben.info/comment-alleger-chargement-onglets-microsoft-edge.html/korben20200417144706-611" data-orig-file="https://korben.info/app/uploads/2020/09/korben20200417144706-611.jpg" data-orig-size="766,622" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-611" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/09/korben20200417144706-611-300x244.jpg" data-large-file="https://korben.info/app/uploads/2020/09/korben20200417144706-611.jpg" loading="lazy" src="https://korben.info/app/uploads/2020/09/korben20200417144706-611.jpg" alt="" class="wp-image-118863" width="422" height="342" srcset="https://korben.info/app/uploads/2020/09/korben20200417144706-611.jpg 766w, https://korben.info/app/uploads/2020/09/korben20200417144706-611-300x244.jpg 300w" sizes="(max-width: 422px) 100vw, 422px" /></figure></div>
+
+
+
+<p>Microsoft Edge utilise le moteur de Chromium avec une surcouche de fonctionnalités propres à Microsoft et c&rsquo;est un excellent navigateur que je vous invite à tester, tout comme Brave, mais plus sérieusement, si je devais vous conseiller un navigateur précis, je vous renvoie vers Firefox qui a mes yeux est aussi un excellent navigateur. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="119762" data-permalink="https://korben.info/comment-alleger-chargement-onglets-microsoft-edge.html/korben20200417144706-853" data-orig-file="https://korben.info/app/uploads/2020/11/korben20200417144706-853.jpg" data-orig-size="1380,888" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="korben20200417144706-853" data-image-description="" data-medium-file="https://korben.info/app/uploads/2020/11/korben20200417144706-853-300x193.jpg" data-large-file="https://korben.info/app/uploads/2020/11/korben20200417144706-853-1024x659.jpg" loading="lazy" width="1024" height="659" src="https://korben.info/app/uploads/2020/11/korben20200417144706-853-1024x659.jpg" alt="" class="wp-image-119762" srcset="https://korben.info/app/uploads/2020/11/korben20200417144706-853-1024x659.jpg 1024w, https://korben.info/app/uploads/2020/11/korben20200417144706-853-300x193.jpg 300w, https://korben.info/app/uploads/2020/11/korben20200417144706-853-768x494.jpg 768w, https://korben.info/app/uploads/2020/11/korben20200417144706-853.jpg 1380w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>Firefox mérite d&rsquo;exister pour éviter qu&rsquo;on se retrouve avec un marché des navigateurs <a href="https://threatpost.com/google-chrome-bug-data-theft/158217/">100% Chromium</a>. Je suis pour la diversité et le choix, et ce serait dommage qu&rsquo;on n&rsquo;en ait plus, surtout si derrière, ça laisse le champ libre à Google. Donc, gros soutien à Firefox.</p>
+<div id="QOZDhPIS-1094587182"><hr style="border-bottom: 2px solid #cfd6df;"></hr>
+<article class="post-90949 post type-post status-publish format-standard has-post-thumbnail hentry category-video" itemscope="" itemtype="https://schema.org/Article">
+<header class="entry-header">
+<h1><a style="background: none" href="https://korben.info/kbn_/119719" target="_blank">Le vigile de votre serveur qui recale les mauvaises adresses IP </a></h1>
+</header>
+<div class="entry-content" itemprop="articleBody">
+<p style="margin-top:20px;"><a href="https://korben.info/kbn_/119719" target="_blank"><img loading="lazy" class="overflowing alignnone" src="https://korben.info/app/uploads/2020/11/Screenshot_2020-11-02-CrowdSec-the-next-gen-open-source-crowd-powered-dynamic-firewall.png" alt="" width="600px" height="px"></a></p>
+<p style="margin-top:20px;">
+    <strong>Envie de savoir ce qui transite via votre adresse ip ?<br />
+</strong></p>
+<p> la cybersécurité n’est pas uniquement une problématique de moyens financiers. C’est également une question d’outils défensifs, de périmètre technique, d’accès non filtrés et surtout de course après le temps.</p>
+<p>Il faut donc être capable d’analyser en temps réel ces accès non filtrés, de détecter ceux qui seraient frauduleux</p>
+<p>CrowdSec est un outil 100% open source qui combine 2 idées très connues des administrateurs de serveurs.</p>
+<li>Crowdsec est capable de bannir automatiquement une IP se connectant sur votre serveur, un peu à la manière d’un Fail2ban</li>
+<li>Et il est capable de proposer une base de données de ces IPs à la communauté des utilisateurs CrowdSec, un peu comme le fait AbuseIPDB, afin de faire circuler l’info rapidement et que chacun puisse être protégé à son tour. </li>
+<p>Cela vous permet de détecter tous les types d’attaques et d’y répondre de manière proportionnée</p>
+<div style="font-size: 24px; margin-top:50px;" class="post-categories">
+  <a href="https://korben.info/kbn_/119719" target="_blank" class="">En Savoir + sur Crowdsec et le tester</a>
+</div>
+</p>
+</div>
+<hr style="border-bottom: 2px solid transparent;">
+</article>
+</div><script type="text/plain" data-tcf="waiting-for-consent" data-id="118889" data-bid="1" data-placement="sous-article-avec-rotation">PGRpdiBpZD0iUU9aRGhQSVMtNzMzNDY5MDMwIj48ZGl2IGlkPSI2OTU2OS0yIj48c2NyaXB0IHNyYz0iLy9hZHMudGhlbW9uZXl0aXplci5jb20vcy9nZW4uanM/dHlwZT0yIj48L3NjcmlwdD48c2NyaXB0IHNyYz0iLy9hZHMudGhlbW9uZXl0aXplci5jb20vcy9yZXF1ZXN0Zm9ybS5qcz9zaXRlSWQ9Njk1NjkmIzAzODtmb3JtYXRJZD0yIj48L3NjcmlwdD48L2Rpdj4KPC9kaXY+PGJyIHN0eWxlPSJjbGVhcjogYm90aDsgZGlzcGxheTogYmxvY2s7IGZsb2F0OiBub25lOyIvPg==</script>]]></content:encoded>
+					
+					<wfw:commentRss>https://korben.info/comment-alleger-chargement-onglets-microsoft-edge.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

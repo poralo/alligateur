@@ -1,0 +1,6 @@
+feedparser==6.0.2
+sgmllib3k==1.0.0
+black==20.8b1
+aiohttp==3.7.2
+SQLAlchemy==1.4.0b1
+flake8==3.8.4

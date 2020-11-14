@@ -3,12 +3,18 @@ import async_timeout
 import aiohttp
 import feedparser
 from sqlalchemy import create_engine
-
-# from sqlalchemy import text
 from sqlalchemy import select
 from sqlalchemy import engine
 from utils import create_table
 import os
+import pymongo
+
+# import time
+
+URL_DATABASE = os.getenv("URL_DATABASE", default="sqlite+pysqlite:///test.db")
+ARTICLES_DATABASE = os.getenv(
+    "ARTICLES_DATABASE", default="mongodb://localhost:27017/"
+)
 
 
 class FeedLinkError(Exception):
@@ -22,10 +28,9 @@ async def fetch(session: aiohttp.ClientSession, feed_url: str) -> dict:
 
 
 def feeds() -> engine.row.LegacyRow:
-    engine = create_engine("sqlite+pysqlite:///test.db", echo=True)
+    engine = create_engine(URL_DATABASE, echo=True)
     stmt = select(create_table.url_table.c.url)
     with engine.connect() as conn:
-        # result = conn.execute(text("select url from rss_feeds"))
         result = conn.execute(stmt)
         for link in result:
             yield link
@@ -35,26 +40,47 @@ def is_rss_valid(rss: feedparser.util.FeedParserDict) -> bool:
     return not rss.bozo
 
 
+async def save_articles(collection, rss: dict) -> None:
+    blog = {
+        "blog-title": rss.feed.title,
+        "blog-description": rss.feed.description,
+        "blog-entries": [
+            {
+                "entrie-title": e.title,
+                "entrie-url": e.links[0]["href"],
+                "uid": e.guid,
+            }
+            for e in rss.entries
+        ],
+    }
+    if collection.find_one({"blog-title": rss.feed.title}):
+        collection.find_one_and_replace({"blog-title": rss.feed.title}, blog)
+    else:
+        collection.insert_one(blog)
+
+
 async def main() -> int:
     async with aiohttp.ClientSession() as session:
-
+        client = pymongo.MongoClient(ARTICLES_DATABASE)
+        db = client.articles
+        articles = db["articles"]
         for feed in feeds():
             html = await fetch(session, feed.url)
             rss = feedparser.parse(html)
 
             if not is_rss_valid(rss):
-                raise FeedLinkError(f"{feed.url} is not a valid rss feed!")
+                # raise FeedLinkError(f"{feed.url} is not a valid rss feed!")
+                print(f"{feed.url} is not a valid rss feed!")
+            else:
+                await save_articles(articles, rss)
 
-            # print(rss.feed.title)
-            # print(rss.feed.description)
-            # print("---------------------")
-            # for entry in rss.entries:
-            #     print(f"{entry.title} -> {entry.links[0]['href']}")
-            #     print()
     return 0
 
 
 if __name__ == "__main__":
-    print(os.getcwd)
+    print(ARTICLES_DATABASE)
     loop = asyncio.get_event_loop()
     loop.run_until_complete(main())
+
+# docker run --name Aggregator --rm -p 8000:5000 --link mongodb:dbserver \
+#   -e ARTICLES_DATABASE=mongodb://172.17.0.2:27017/ aggregator:latest
